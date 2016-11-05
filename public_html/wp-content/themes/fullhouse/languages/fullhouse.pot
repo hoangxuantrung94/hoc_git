@@ -1,0 +1,2111 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-08 09:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the template
+#: inc/customizer.php:779
+msgid "404 Page"
+msgstr ""
+
+#: 404.php:27
+msgid "404"
+msgstr ""
+
+#: 404.php:31
+msgid "Oop, that link is broken."
+msgstr ""
+
+#: 404.php:32
+msgid "Page does not exist or some other error occured. Go to our"
+msgstr ""
+
+#: 404.php:37
+msgid "Home page"
+msgstr ""
+
+#: 404.php:38
+msgid "or go back to"
+msgstr ""
+
+#: 404.php:39 opalestate/archive-opalestate_agent.php:38 
+#: opalestate/archive-opalestate_property.php:59 
+#: opalestate/single-opalestate_agent.php:18 
+#: opalestate/single-opalestate_property-v2.php:27 
+#: opalestate/single-opalestate_property.php:27
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:33
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:36
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:36
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:39
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:39
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:42 taxonomy-post_format.php:51
+msgid "Archives"
+msgstr ""
+
+#: author.php:45
+msgid "All posts by %s"
+msgstr ""
+
+#: category.php:31
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:23
+msgid "0 Comment"
+msgstr ""
+
+#: comments.php:23
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:23
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:36
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:50
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:52
+msgid "Comment:"
+msgstr ""
+
+#: comments.php:53
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:59
+msgid "Name:"
+msgstr ""
+
+#: comments.php:60
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:63
+msgid "Email:"
+msgstr ""
+
+#: comments.php:64
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:67
+msgid "Website:"
+msgstr ""
+
+#: comments.php:68
+msgid "Your Website"
+msgstr ""
+
+#: comments.php:71
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:72
+msgid "Your email address will not be published."
+msgstr ""
+
+#: content-aside.php:23 content-audio.php:23 content-featured-post.php:23 
+#: content-gallery.php:25 content-image.php:23 content-link.php:25 
+#: content-quote.php:23 content-video.php:23 content.php:24 
+#: vc_templates/pbr_frontpageposts4.php:85
+msgid "in"
+msgstr ""
+
+#: content-aside.php:29 content-audio.php:29 content-featured-post.php:29 
+#: content-gallery.php:31 content-image.php:29 content-link.php:31 
+#: content-quote.php:29 content-video.php:29 content.php:30 
+#: vc_templates/pbr_frontpageposts4.php:93 vc_templates/pbr_gridposts.php:100
+msgid " 0 "
+msgstr ""
+
+#: content-aside.php:29 content-audio.php:29 content-featured-post.php:29 
+#: content-gallery.php:31 content-image.php:29 content-link.php:31 
+#: content-quote.php:29 content-video.php:29 content.php:30 
+#: vc_templates/pbr_frontpageposts4.php:93 vc_templates/pbr_gridposts.php:100
+msgid " 1 "
+msgstr ""
+
+#: content-aside.php:29 content-audio.php:29 content-featured-post.php:29 
+#: content-gallery.php:31 content-image.php:29 content-link.php:31 
+#: content-quote.php:29 content-video.php:29 content.php:30 
+#: vc_templates/pbr_frontpageposts4.php:93 vc_templates/pbr_gridposts.php:100
+msgid " % "
+msgstr ""
+
+#: content-aside.php:31 content-audio.php:31 content-featured-post.php:31 
+#: content-gallery.php:33 content-image.php:31 content-link.php:33 
+#: content-quote.php:31 content-video.php:31 content.php:32 
+#: vc_templates/pbr_frontpageposts4.php:95 vc_templates/pbr_gridposts.php:102
+msgid "Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: content-aside.php:64 content-audio.php:72 content-featured-post.php:64 
+#: content-gallery.php:85 content-image.php:64 content-link.php:75 
+#: content-quote.php:65 content-video.php:71 content.php:66 
+#: inc/template-tags.php:222
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-aside.php:69 content-audio.php:77 content-featured-post.php:69 
+#: content-gallery.php:90 content-image.php:69 content-link.php:80 
+#: content-page.php:16 content-quote.php:70 content-video.php:76 content.php:71 
+#: image.php:54 opalestate/content-single-user.php:26
+msgid "Pages:"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:22 image.php:34 page-templates/contributors.php:36
+msgid "Edit"
+msgstr ""
+
+#: footer.php:40
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:40
+msgid "Copyright &copy; 2016 - Fullhouse - All rights reserved. Powered by %s"
+msgstr ""
+
+#: functions.php:74
+msgid "Top primary menu"
+msgstr ""
+
+#: functions.php:75
+msgid "Secondary menu in left sidebar"
+msgstr ""
+
+#: functions.php:76
+msgid "Topbar Menu in Topbar sidebar"
+msgstr ""
+
+#: functions.php:175
+msgid "MetaBox"
+msgstr ""
+
+#: functions.php:182
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:188
+msgid "MailChimp"
+msgstr ""
+
+#: functions.php:194
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: functions.php:201
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:208
+msgid "PBR Themer For Themes"
+msgstr ""
+
+#: functions.php:215
+msgid "Opal Estate"
+msgstr ""
+
+#: functions.php:221
+msgid "Opal Membership"
+msgstr ""
+
+#: functions.php:228
+msgid "Snazzy Maps - Map Custom Styles"
+msgstr ""
+
+#: functions.php:234
+msgid "Super Socializer - Intergrate Social Login"
+msgstr ""
+
+#: functions.php:252
+msgid "Sidebar Default"
+msgstr ""
+
+#: functions.php:254 functions.php:264 functions.php:284 functions.php:294 
+#: functions.php:305 functions.php:316
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: functions.php:262
+msgid "Newsletter"
+msgstr ""
+
+#: functions.php:272
+msgid "Social"
+msgstr ""
+
+#: functions.php:274
+msgid "Appears on content in the sidebar."
+msgstr ""
+
+#: functions.php:282 inc/admin/functions.php:135
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:292 inc/admin/functions.php:148
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:303
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: functions.php:314
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: functions.php:326
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:328 functions.php:338 functions.php:348 functions.php:358
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: functions.php:336
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:346
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:356
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:367
+msgid "User Sidebar"
+msgstr ""
+
+#: functions.php:369
+msgid "Appears on posts and pages in the sidebar"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. supported by Lora, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:394
+msgctxt "Hind font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. supported by Lato, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:400
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: image.php:65
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:66
+msgid "Next Image"
+msgstr ""
+
+#: list_comments.php:30 inc/function-post.php:178
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: list_comments.php:31 inc/function-post.php:179
+msgid " - Edit"
+msgstr ""
+
+#: list_comments.php:32 inc/function-post.php:180
+msgid " - Reply"
+msgstr ""
+
+#: list_comments.php:37 inc/function-post.php:185
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:17
+msgid "Enter Your Keyword"
+msgstr ""
+
+#: sidebar-offcanvas.php:8 inc/vendors/visualcomposer/class-vc-theme.php:32 
+#: inc/vendors/visualcomposer/class-vc-theme.php:69
+msgid "Menu"
+msgstr ""
+
+#: sidebar-static-left.php:17
+msgid "Please drag and drop widget on this position Static Left"
+msgstr ""
+
+#: tag.php:30
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: taxonomy-post_format.php:30
+msgid "Asides"
+msgstr ""
+
+#: taxonomy-post_format.php:33
+msgid "Images"
+msgstr ""
+
+#: taxonomy-post_format.php:36
+msgid "Videos"
+msgstr ""
+
+#: taxonomy-post_format.php:39
+msgid "Audio"
+msgstr ""
+
+#: taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr ""
+
+#: taxonomy-post_format.php:45
+msgid "Links"
+msgstr ""
+
+#: taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer.php:58 inc/admin/functions.php:28 inc/admin/functions.php:176
+msgid "Auto"
+msgstr ""
+
+#: inc/customizer.php:59 inc/admin/functions.php:29 inc/admin/functions.php:177
+msgid "Left - Main Sidebar"
+msgstr ""
+
+#: inc/customizer.php:60 inc/admin/functions.php:30 inc/admin/functions.php:178
+msgid "Main - Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:61 inc/admin/functions.php:31 inc/admin/functions.php:179
+msgid "Left - Main - Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Select"
+msgstr ""
+
+#: inc/customizer.php:133 inc/function-unilty.php:53 
+#: inc/vendors/visualcomposer/class-vc-elements.php:42
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:269
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer.php:272
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: inc/customizer.php:276 inc/customizer.php:277
+msgid "May only be visible on wide screens."
+msgstr ""
+
+#: inc/customizer.php:279 inc/customizer.php:280
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "Topbar Background"
+msgstr ""
+
+#: inc/customizer.php:306
+msgid "Topbar Text Color"
+msgstr ""
+
+#: inc/customizer.php:322
+msgid "Page Container Background"
+msgstr ""
+
+#: inc/customizer.php:339 inc/customizer.php:603
+msgid "Footer Background"
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "Footer Heading Color"
+msgstr ""
+
+#: inc/customizer.php:368
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/customizer.php:386
+msgid "Image Link"
+msgstr ""
+
+#: inc/customizer.php:411
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:412
+msgid "Website General Settings"
+msgstr ""
+
+#: inc/customizer.php:427
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer.php:442
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer.php:458
+msgid "Favicon"
+msgstr ""
+
+#: inc/customizer.php:475
+msgid "Show Title & Tagline"
+msgstr ""
+
+#: inc/customizer.php:493
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:509
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer.php:528
+msgid "Themes And Layouts Setting"
+msgstr ""
+
+#: inc/customizer.php:541
+msgid "Active Skin"
+msgstr ""
+
+#: inc/customizer.php:555
+msgid "Header Layout Style"
+msgstr ""
+
+#: inc/customizer.php:573
+msgid "Keep Header"
+msgstr ""
+
+#: inc/customizer.php:589
+msgid "Footer Styles Builder"
+msgstr ""
+
+#: inc/customizer.php:619
+msgid "Social Share setting"
+msgstr ""
+
+#: inc/customizer.php:624
+msgid "Share facebook "
+msgstr ""
+
+#: inc/customizer.php:626
+msgid "Share twitter "
+msgstr ""
+
+#: inc/customizer.php:628
+msgid "Share linkedin "
+msgstr ""
+
+#: inc/customizer.php:630
+msgid "Share tumblr "
+msgstr ""
+
+#: inc/customizer.php:632
+msgid "Share google plus "
+msgstr ""
+
+#: inc/customizer.php:634
+msgid "Share pinterest "
+msgstr ""
+
+#: inc/customizer.php:636
+msgid "Share mail "
+msgstr ""
+
+#: inc/customizer.php:652
+msgid "Vertical Megamenu"
+msgstr ""
+
+#: inc/customizer.php:669
+msgid "Sticky Top Bar"
+msgstr ""
+
+#: inc/customizer.php:683
+msgid "Megamenu Duration"
+msgstr ""
+
+#: inc/customizer.php:692
+msgid "Front Page Settings"
+msgstr ""
+
+#: inc/customizer.php:694 inc/customizer.php:766
+msgid "Your theme supports a static front page."
+msgstr ""
+
+#: inc/customizer.php:724
+msgid "Front page displays"
+msgstr ""
+
+#: inc/customizer.php:728
+msgid "Your latest posts"
+msgstr ""
+
+#: inc/customizer.php:729
+msgid "A static page"
+msgstr ""
+
+#: inc/customizer.php:740
+msgid "Front page"
+msgstr ""
+
+#: inc/customizer.php:753
+msgid "Posts page"
+msgstr ""
+
+#: inc/customizer.php:764
+msgid "Pages Settings"
+msgstr ""
+
+#: inc/customizer.php:816
+msgid "Blog & Post"
+msgstr ""
+
+#: inc/customizer.php:817 inc/vendors/opalestate/customizer.php:31
+msgid "Make default setting for page, general"
+msgstr ""
+
+#: inc/customizer.php:834 inc/vendors/opalestate/customizer.php:41
+msgid "General Setting"
+msgstr ""
+
+#: inc/customizer.php:849
+msgid "Archive & Categgory Setting"
+msgstr ""
+
+#: inc/customizer.php:862
+msgid "Select column"
+msgstr ""
+
+#: inc/customizer.php:866
+msgid "1 column"
+msgstr ""
+
+#: inc/customizer.php:867
+msgid "2 columns"
+msgstr ""
+
+#: inc/customizer.php:868
+msgid "3 columns"
+msgstr ""
+
+#: inc/customizer.php:869
+msgid "4 columns"
+msgstr ""
+
+#: inc/customizer.php:870
+msgid "6 columns"
+msgstr ""
+
+#: inc/customizer.php:884 inc/vendors/opalestate/customizer.php:70
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer.php:903 inc/vendors/opalestate/customizer.php:87
+msgid "Archive Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:918 inc/vendors/opalestate/customizer.php:103
+msgid "Archive Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:931 inc/customizer.php:1052
+msgid "Breadcrumb Background"
+msgstr ""
+
+#: inc/customizer.php:944
+msgid "Single post Setting"
+msgstr ""
+
+#: inc/customizer.php:960
+msgid "Show share post"
+msgstr ""
+
+#: inc/customizer.php:976
+msgid "Show related post"
+msgstr ""
+
+#: inc/customizer.php:991
+msgid "Number of related posts to show"
+msgstr ""
+
+#: inc/customizer.php:995
+msgid "2 posts"
+msgstr ""
+
+#: inc/customizer.php:996
+msgid "3 posts"
+msgstr ""
+
+#: inc/customizer.php:997
+msgid "4 posts"
+msgstr ""
+
+#: inc/customizer.php:998
+msgid "6 posts"
+msgstr ""
+
+#: inc/customizer.php:1013
+msgid "Single Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:1027
+msgid "Single blog Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1040
+msgid "Single blog Right Sidebar"
+msgstr ""
+
+#. Name of the theme
+#: inc/customizer.php:1100 inc/vendors/opalestate/customizer.php:30
+msgid "fullhouse"
+msgstr ""
+
+#: inc/customizer.php:1103
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change "
+"the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If "
+"no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed "
+"instead."
+msgstr ""
+
+#: inc/customizer.php:1103
+msgctxt "featured content default tag slug"
+msgid "featured"
+msgstr ""
+
+#: inc/customizer.php:1104
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. "
+"PrestaBase uses featured images for posts and pages&mdash;above the "
+"title&mdash;and in the Featured Content area on the home page."
+msgstr ""
+
+#: inc/customizer.php:1105
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s\">"
+"PrestaBase documentation</a>."
+msgstr ""
+
+#: inc/function-post.php:101
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/function-post.php:207
+msgid "Previous"
+msgstr ""
+
+#: inc/function-post.php:207
+msgid "Next"
+msgstr ""
+
+#: inc/function-post.php:215
+msgid "Showing the single result"
+msgstr ""
+
+#: inc/function-post.php:217
+msgid "Showing all %d results"
+msgstr ""
+
+#: inc/function-post.php:219
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d to %2$d of %3$d results"
+msgstr ""
+
+#: inc/function-unilty.php:57
+msgid "Header"
+msgstr ""
+
+#: inc/function-unilty.php:70 
+#: inc/vendors/visualcomposer/class-vc-elements.php:83
+msgid "None"
+msgstr ""
+
+#: inc/template-tags.php:50
+msgid "&larr; Previous"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Next &rarr;"
+msgstr ""
+
+#: inc/template-tags.php:58
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:89
+msgid ""
+"<div class=\"col-lg-6\"><span class=\"meta-nav\">Published In</span>"
+"%title</div>"
+msgstr ""
+
+#: inc/template-tags.php:91
+msgid ""
+"<div class=\"prev-post\"><span class=\"meta-nav\">Previous Post</span>"
+"%title</div>"
+msgstr ""
+
+#: inc/template-tags.php:92
+msgid ""
+"<div class=\"next-post text-right\"><span class=\"meta-nav\">Next Post</span>"
+"<span>%title</span></div>"
+msgstr ""
+
+#: inc/template-tags.php:109
+msgid "Sticky"
+msgstr ""
+
+#: inc/template.php:76
+msgid "Page %s"
+msgstr ""
+
+#: inc/template.php:115
+msgid "Blogs"
+msgstr ""
+
+#: inc/template.php:135
+msgid "Single Property"
+msgstr ""
+
+#: inc/template.php:137
+msgid "Single Agent"
+msgstr ""
+
+#: inc/template.php:145
+msgid "Blog"
+msgstr ""
+
+#: inc/template.php:151 inc/template.php:225
+msgid "Search"
+msgstr ""
+
+#: inc/template.php:183 inc/template.php:184
+msgid "Search results for \""
+msgstr ""
+
+#: inc/template.php:186 inc/template.php:187
+msgid "Posts tagged \""
+msgstr ""
+
+#: inc/template.php:191 inc/template.php:192
+msgid "Author "
+msgstr ""
+
+#: inc/template.php:194 inc/template.php:195
+msgid "Error 404"
+msgstr ""
+
+#: inc/template.php:221
+msgid "What do you need..."
+msgstr ""
+
+#: opalestate/archive-opalestate_agent.php:39 
+#: opalestate/archive-opalestate_property.php:60 
+#: opalestate/single-opalestate_agent.php:19 
+#: opalestate/single-opalestate_property-v2.php:28 
+#: opalestate/single-opalestate_property.php:28
+msgid "Next page"
+msgstr ""
+
+#: opalestate/archive-opalestate_agent.php:40 
+#: opalestate/archive-opalestate_property.php:61 
+#: opalestate/single-opalestate_agent.php:20 
+#: opalestate/single-opalestate_property-v2.php:29 
+#: opalestate/single-opalestate_property.php:29
+msgid "Page"
+msgstr ""
+
+#: opalestate/author.php:29
+msgid "My Properties"
+msgstr ""
+
+#: opalestate/content-single-user.php:21
+msgid "Continue reading %s"
+msgstr ""
+
+#. Name of the template
+msgid "Contributor"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#. Name of the template
+msgid "IDX Single"
+msgstr ""
+
+#. Name of the template
+msgid "User Favorite Page"
+msgstr ""
+
+#. Name of the template
+msgid "User Membership Page"
+msgstr ""
+
+#. Name of the template
+msgid "User Properties Page"
+msgstr ""
+
+#. Name of the template
+msgid "Property Search Results"
+msgstr ""
+
+#. Name of the template
+msgid "User Submission Page"
+msgstr ""
+
+#. Name of the template
+msgid "User Profile Page"
+msgstr ""
+
+#: vc_templates/pbr_portfolio.php:62
+msgid "All"
+msgstr ""
+
+#: vc_templates/pbr_slideshopbrst.php:76
+msgid "Read more"
+msgstr ""
+
+#: inc/admin/functions.php:40
+msgid "Page Layout Setting"
+msgstr ""
+
+#: inc/admin/functions.php:54
+msgid "Enable Fullwidth Layout"
+msgstr ""
+
+#: inc/admin/functions.php:62
+msgid "Header Layout"
+msgstr ""
+
+#: inc/admin/functions.php:70 inc/admin/functions.php:82 
+#: inc/admin/functions.php:143 inc/admin/functions.php:156
+msgid "Global"
+msgstr ""
+
+#: inc/admin/functions.php:74
+msgid "Footer Layout"
+msgstr ""
+
+#: inc/admin/functions.php:87
+msgid "Disable Breadscrumb"
+msgstr ""
+
+#: inc/admin/functions.php:96
+msgid "Breadcrumbs Text Color"
+msgstr ""
+
+#: inc/admin/functions.php:99
+msgid "Custom Text Color for breadscrumb"
+msgstr ""
+
+#: inc/admin/functions.php:105
+msgid "Breadcrumbs Background Color"
+msgstr ""
+
+#: inc/admin/functions.php:108
+msgid "Custom Background for breadscrumb"
+msgstr ""
+
+#: inc/admin/functions.php:114
+msgid "Breadscrumb Background"
+msgstr ""
+
+#: inc/admin/functions.php:122
+msgid "Layout"
+msgstr ""
+
+#: inc/admin/functions.php:188
+msgid "Format Setting"
+msgstr ""
+
+#: inc/admin/functions.php:204
+msgid "Images Gallery"
+msgstr ""
+
+#: inc/admin/functions.php:206 inc/admin/functions.php:213 
+#: inc/admin/functions.php:220 inc/admin/functions.php:226 
+#: inc/admin/functions.php:233
+msgid "Select one or more images to show as gallery"
+msgstr ""
+
+#: inc/admin/functions.php:211
+msgid "Video Link"
+msgstr ""
+
+#: inc/admin/functions.php:218
+msgid "Link Text"
+msgstr ""
+
+#: inc/admin/functions.php:224
+msgid "Link To Redirect"
+msgstr ""
+
+#: inc/admin/functions.php:231
+msgid "Audio Link"
+msgstr ""
+
+#: inc/classes/account.php:62
+msgid "Wrong username or password. Please try again!!!"
+msgstr ""
+
+#: inc/classes/account.php:65
+msgid "Signin successful, redirecting..."
+msgstr ""
+
+#: inc/classes/account.php:85
+msgid "Enter an username or e-mail address."
+msgstr ""
+
+#: inc/classes/account.php:91
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: inc/classes/account.php:97
+msgid "There is no user registered with that username."
+msgstr ""
+
+#: inc/classes/account.php:100
+msgid "Invalid username or e-mail address."
+msgstr ""
+
+#: inc/classes/account.php:123
+msgid "Your new password"
+msgstr ""
+
+#: inc/classes/account.php:126
+msgid "Your new password is: "
+msgstr ""
+
+#: inc/classes/account.php:135
+msgid "Check your email address for you new password."
+msgstr ""
+
+#: inc/classes/account.php:137
+msgid "System is unable to send you mail containg your new password."
+msgstr ""
+
+#: inc/classes/account.php:139
+msgid "Oops! Something went wrong while updating your account."
+msgstr ""
+
+#: inc/classes/account.php:167
+msgid "Required form field is missing"
+msgstr ""
+
+#: inc/classes/account.php:171
+msgid "Username too short. At least 4 characters is required"
+msgstr ""
+
+#: inc/classes/account.php:175
+msgid "Sorry, that username already exists!"
+msgstr ""
+
+#: inc/classes/account.php:179
+msgid "Sorry, the username you entered is not valid"
+msgstr ""
+
+#: inc/classes/account.php:183
+msgid "Password length must be greater than 5"
+msgstr ""
+
+#: inc/classes/account.php:187
+msgid "Password must be equal Confirm Password"
+msgstr ""
+
+#: inc/classes/account.php:191
+msgid "Email is not valid"
+msgstr ""
+
+#: inc/classes/account.php:195
+msgid "Email Already in use"
+msgstr ""
+
+#: inc/classes/account.php:231
+msgid "You have registered, redirecting ..."
+msgstr ""
+
+#: inc/classes/account.php:238
+msgid "Register user error!"
+msgstr ""
+
+#: inc/classes/account.php:256
+msgid "Login"
+msgstr ""
+
+#: inc/classes/account.php:257 inc/classes/account.php:415 
+#: inc/classes/account.php:476
+msgid "Register"
+msgstr ""
+
+#: inc/classes/account.php:279 inc/classes/account.php:279
+msgid "Logout"
+msgstr ""
+
+#: inc/classes/account.php:316
+msgid "Hello, Welcome Back!"
+msgstr ""
+
+#: inc/classes/account.php:318 inc/classes/account.php:445 
+#: inc/classes/account.php:447
+msgid "Username"
+msgstr ""
+
+#: inc/classes/account.php:321 inc/classes/account.php:455 
+#: inc/classes/account.php:457
+msgid "Password"
+msgstr ""
+
+#: inc/classes/account.php:324
+msgid "Remember Me"
+msgstr ""
+
+#: inc/classes/account.php:327
+msgid "Log In"
+msgstr ""
+
+#: inc/classes/account.php:328 inc/classes/account.php:395
+msgid "Cancel"
+msgstr ""
+
+#: inc/classes/account.php:331
+msgid "Forgot Password"
+msgstr ""
+
+#: inc/classes/account.php:331
+msgid "Lost Your Password?"
+msgstr ""
+
+#: inc/classes/account.php:333
+msgid "Dont not have an account?"
+msgstr ""
+
+#: inc/classes/account.php:333 inc/classes/account.php:333
+msgid "Sign Up"
+msgstr ""
+
+#: inc/classes/account.php:377
+msgid "Reset Password"
+msgstr ""
+
+#: inc/classes/account.php:378
+msgid "Username or E-mail:"
+msgstr ""
+
+#: inc/classes/account.php:394
+msgid "Get New Password"
+msgstr ""
+
+#: inc/classes/account.php:402
+msgid "Back To Login"
+msgstr ""
+
+#: inc/classes/account.php:428
+msgid "Please wait ..."
+msgstr ""
+
+#: inc/classes/account.php:433
+msgid "Your account has been activated, you can login now."
+msgstr ""
+
+#: inc/classes/account.php:436 inc/classes/account.php:438
+msgid "First name"
+msgstr ""
+
+#: inc/classes/account.php:441 inc/classes/account.php:442
+msgid "Last name"
+msgstr ""
+
+#: inc/classes/account.php:450 inc/classes/account.php:452 
+#: inc/vendors/visualcomposer/class-vc-theme.php:267
+msgid "Email"
+msgstr ""
+
+#: inc/classes/account.php:460 inc/classes/account.php:462
+msgid "Confirm Password"
+msgstr ""
+
+#: inc/classes/nav.php:141
+msgid "New"
+msgstr ""
+
+#: inc/classes/nav.php:145
+msgid "Hot"
+msgstr ""
+
+#: inc/classes/nav.php:149
+msgid "Featured"
+msgstr ""
+
+#: page-templates/parts/location-select.php:23
+msgid "Select Your Location"
+msgstr ""
+
+#: page-templates/parts/location-select.php:24
+msgid "Select one to show all property in selected location"
+msgstr ""
+
+#: page-templates/parts/location-select.php:33
+msgid "Clear Location"
+msgstr ""
+
+#: page-templates/parts/quick-search-places-form.php:19
+msgid "Enter Property name"
+msgstr ""
+
+#: page-templates/parts/related-post.php:71
+msgid "Related Post "
+msgstr ""
+
+#: page-templates/parts/sharebox.php:25
+msgid "Share on facebook"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:32
+msgid "Share on Twitter"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:39
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:46
+msgid "Share on Tumblr"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:54
+msgid "Share on Google plus"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:62
+msgid "Share on Pinterest"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:69
+msgid "Email to a Friend"
+msgstr ""
+
+#: inc/vendors/opalestate/customizer.php:54
+msgid "Archive Page Setting"
+msgstr ""
+
+#: inc/vendors/opalestate/customizer.php:115
+msgid "Single Property Page Setting"
+msgstr ""
+
+#: inc/vendors/opalestate/customizer.php:130
+msgid "Property Detail Layout"
+msgstr ""
+
+#: inc/vendors/opalestate/customizer.php:146
+msgid "Property Detail Left Sidebar"
+msgstr ""
+
+#: inc/vendors/opalestate/customizer.php:161
+msgid "Property Detail Right Sidebar"
+msgstr ""
+
+#: inc/vendors/opalestate/customizer.php:178
+msgid "Single Property Breadcrumb Background"
+msgstr ""
+
+#: inc/vendors/opalestate/customizer.php:195
+msgid "Single Agent Breadcrumb Background"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:11
+msgid "PBR Featured Box"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:14
+msgid "Decreale Service Info"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:16 
+#: inc/vendors/visualcomposer/class-vc-elements.php:126 
+#: inc/vendors/visualcomposer/class-vc-elements.php:223 
+#: inc/vendors/visualcomposer/class-vc-elements.php:290 
+#: inc/vendors/visualcomposer/class-vc-elements.php:367 
+#: inc/vendors/visualcomposer/class-vc-theme.php:21 
+#: inc/vendors/visualcomposer/class-vc-theme.php:56 
+#: inc/vendors/visualcomposer/class-vc-theme.php:98 
+#: inc/vendors/visualcomposer/class-vc-theme.php:120 
+#: inc/vendors/visualcomposer/class-vc-theme.php:221 
+#: inc/vendors/visualcomposer/class-vc-theme.php:321 
+#: inc/vendors/visualcomposer/class-vc-theme.php:367
+msgid "PBR Widgets"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:20 
+#: inc/vendors/visualcomposer/class-vc-elements.php:130 
+#: inc/vendors/visualcomposer/class-vc-elements.php:227 
+#: inc/vendors/visualcomposer/class-vc-elements.php:295 
+#: inc/vendors/visualcomposer/class-vc-elements.php:331 
+#: inc/vendors/visualcomposer/class-vc-elements.php:371 
+#: inc/vendors/visualcomposer/class-vc-theme.php:26 
+#: inc/vendors/visualcomposer/class-vc-theme.php:61 
+#: inc/vendors/visualcomposer/class-vc-theme.php:104 
+#: inc/vendors/visualcomposer/class-vc-theme.php:124 
+#: inc/vendors/visualcomposer/class-vc-theme.php:225 
+#: inc/vendors/visualcomposer/class-vc-theme.php:328 
+#: inc/vendors/visualcomposer/class-vc-theme.php:374
+msgid "Title"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:26 
+#: inc/vendors/visualcomposer/class-vc-theme.php:334 
+#: inc/vendors/visualcomposer/class-vc-theme.php:399
+msgid "Title Color"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:28 
+#: inc/vendors/visualcomposer/class-vc-elements.php:76 
+#: inc/vendors/visualcomposer/class-vc-theme.php:336 
+#: inc/vendors/visualcomposer/class-vc-theme.php:393 
+#: inc/vendors/visualcomposer/class-vc-theme.php:401 
+#: inc/vendors/visualcomposer/class-vc-theme.php:417 
+#: inc/vendors/visualcomposer/class-vc-theme.php:441
+msgid "Select font color"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:33 
+#: inc/vendors/visualcomposer/class-vc-elements.php:303 
+#: inc/vendors/visualcomposer/class-vc-elements.php:337
+msgid "Sub Title"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:39 
+#: inc/vendors/visualcomposer/class-vc-theme.php:199 
+#: inc/vendors/visualcomposer/class-vc-theme.php:298 
+#: inc/vendors/visualcomposer/class-vc-theme.php:348
+msgid "Style"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:43
+msgid "Version 1"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:44
+msgid "Version 2"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:45
+msgid "Version 3"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:46
+msgid "Version 4"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:53 
+#: inc/vendors/visualcomposer/class-vc-elements.php:310
+msgid "Title Alignment"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:56 
+#: inc/vendors/visualcomposer/class-vc-elements.php:313
+msgid "Align left"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:57 
+#: inc/vendors/visualcomposer/class-vc-elements.php:314
+msgid "Align center"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:58 
+#: inc/vendors/visualcomposer/class-vc-elements.php:315
+msgid "Align right"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:65 
+#: inc/vendors/visualcomposer/class-vc-elements.php:247
+msgid "FontAwsome Icon"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:68 
+#: inc/vendors/visualcomposer/class-vc-elements.php:250 
+#: inc/vendors/visualcomposer/function-vc.php:88
+msgid "This support display icon from FontAwsome, Please click"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:70 
+#: inc/vendors/visualcomposer/class-vc-elements.php:252
+msgid "here to see the list"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:74
+msgid "Icon Color"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:80
+msgid "Background Icon"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:84
+msgid "Success"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:85
+msgid "Info"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:86
+msgid "Danger"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:87
+msgid "Warning"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:88
+msgid "Light"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:95 
+#: inc/vendors/visualcomposer/class-vc-theme.php:131 
+#: inc/vendors/visualcomposer/class-vc-theme.php:232
+msgid "Photo"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:103 
+#: inc/vendors/visualcomposer/class-vc-theme.php:146
+msgid "information"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:106 
+#: inc/vendors/visualcomposer/class-vc-elements.php:187 
+#: inc/vendors/visualcomposer/class-vc-theme.php:149 
+#: inc/vendors/visualcomposer/class-vc-theme.php:256
+msgid "Allow  put html tags"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:111 
+#: inc/vendors/visualcomposer/class-vc-elements.php:207 
+#: inc/vendors/visualcomposer/class-vc-elements.php:275 
+#: inc/vendors/visualcomposer/class-vc-elements.php:391 
+#: inc/vendors/visualcomposer/class-vc-news.php:63 
+#: inc/vendors/visualcomposer/class-vc-news.php:115 
+#: inc/vendors/visualcomposer/class-vc-news.php:190 
+#: inc/vendors/visualcomposer/class-vc-news.php:259 
+#: inc/vendors/visualcomposer/class-vc-theme.php:39 
+#: inc/vendors/visualcomposer/class-vc-theme.php:87 
+#: inc/vendors/visualcomposer/class-vc-theme.php:206 
+#: inc/vendors/visualcomposer/class-vc-theme.php:304 
+#: inc/vendors/visualcomposer/class-vc-theme.php:354 
+#: inc/vendors/visualcomposer/class-vc-theme.php:423
+msgid "Extra class name"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:113 
+#: inc/vendors/visualcomposer/class-vc-elements.php:209 
+#: inc/vendors/visualcomposer/class-vc-elements.php:277 
+#: inc/vendors/visualcomposer/class-vc-elements.php:393 
+#: inc/vendors/visualcomposer/class-vc-news.php:65 
+#: inc/vendors/visualcomposer/class-vc-news.php:117 
+#: inc/vendors/visualcomposer/class-vc-news.php:192 
+#: inc/vendors/visualcomposer/class-vc-news.php:261 
+#: inc/vendors/visualcomposer/class-vc-theme.php:41 
+#: inc/vendors/visualcomposer/class-vc-theme.php:89 
+#: inc/vendors/visualcomposer/class-vc-theme.php:208 
+#: inc/vendors/visualcomposer/class-vc-theme.php:306 
+#: inc/vendors/visualcomposer/class-vc-theme.php:356 
+#: inc/vendors/visualcomposer/class-vc-theme.php:425
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:122
+msgid "PBR Pricing"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:124
+msgid "Make Plan for membership"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:137
+msgid "Price"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:144
+msgid "Currency"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:151
+msgid "Period"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:158
+msgid "Subtitle"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:165
+msgid "Is Featured"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:167
+msgid "No"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:167
+msgid "Yes"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:171
+msgid "Skin"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:173
+msgid "Skin 1"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:173
+msgid "Skin 2"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:173
+msgid "Skin 3"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:177
+msgid "Box Style"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:179
+msgid "Boxed"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:184 
+#: inc/vendors/visualcomposer/class-vc-elements.php:349
+msgid "Content"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:192
+msgid "Link Title"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:200 
+#: inc/vendors/visualcomposer/class-vc-theme.php:447
+msgid "Link"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:219
+msgid "PBR Counter"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:222
+msgid "Counting number with your term"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:234 
+#: inc/vendors/visualcomposer/class-vc-theme.php:341 
+#: inc/vendors/visualcomposer/class-vc-theme.php:407
+msgid "Description"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:240 
+#: inc/vendors/visualcomposer/class-vc-elements.php:379
+msgid "Number"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:258 
+#: inc/vendors/visualcomposer/class-vc-theme.php:382
+msgid "If you upload an image, icon will not show."
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:261 
+#: inc/vendors/visualcomposer/class-vc-theme.php:385
+msgid "Image"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:268
+msgid "Text Color"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:287
+msgid "PBR Timeline"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:291
+msgid "Create Item timeline with content + icon"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:321
+msgid "Items"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:343 
+#: inc/vendors/visualcomposer/function-vc.php:85
+msgid "Icon"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:363
+msgid "PBR Gallery"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:365
+msgid "Diplay Gallery Grid"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-elements.php:385
+msgid "Columns"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:14
+msgid "(News) FrontPage 3"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:17 
+#: inc/vendors/visualcomposer/class-vc-news.php:74 
+#: inc/vendors/visualcomposer/class-vc-news.php:134 
+#: inc/vendors/visualcomposer/class-vc-news.php:204
+msgid "PBR News"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:18 
+#: inc/vendors/visualcomposer/class-vc-news.php:75
+msgid "Create Post having blog styles"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:23 
+#: inc/vendors/visualcomposer/class-vc-news.php:80 
+#: inc/vendors/visualcomposer/class-vc-news.php:140 
+#: inc/vendors/visualcomposer/class-vc-news.php:210 
+#: inc/vendors/visualcomposer/class-vc-theme.php:326 
+#: inc/vendors/visualcomposer/class-vc-theme.php:372
+msgid "Widget title"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:25 
+#: inc/vendors/visualcomposer/class-vc-news.php:82 
+#: inc/vendors/visualcomposer/class-vc-news.php:142 
+#: inc/vendors/visualcomposer/class-vc-news.php:212
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:33 
+#: inc/vendors/visualcomposer/class-vc-news.php:91 
+#: inc/vendors/visualcomposer/class-vc-news.php:149 
+#: inc/vendors/visualcomposer/class-vc-news.php:227
+msgid "Grids content"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:39 
+#: inc/vendors/visualcomposer/class-vc-news.php:97 
+#: inc/vendors/visualcomposer/class-vc-news.php:155 
+#: inc/vendors/visualcomposer/class-vc-news.php:233
+msgid "Create WordPress loop, to populate content from your site."
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:43
+msgid "Number Main Posts"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:50 
+#: inc/vendors/visualcomposer/class-vc-news.php:102 
+#: inc/vendors/visualcomposer/class-vc-news.php:169 
+#: inc/vendors/visualcomposer/class-vc-news.php:245
+msgid "Show Pagination Links"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:52 
+#: inc/vendors/visualcomposer/class-vc-news.php:104 
+#: inc/vendors/visualcomposer/class-vc-news.php:171 
+#: inc/vendors/visualcomposer/class-vc-news.php:247
+msgid "Enables to show paginations to next new page."
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:53 
+#: inc/vendors/visualcomposer/class-vc-news.php:105 
+#: inc/vendors/visualcomposer/class-vc-news.php:172 
+#: inc/vendors/visualcomposer/class-vc-news.php:248
+msgid "Yes, please"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:57 
+#: inc/vendors/visualcomposer/class-vc-news.php:109 
+#: inc/vendors/visualcomposer/class-vc-news.php:184 
+#: inc/vendors/visualcomposer/class-vc-news.php:253
+msgid "Thumbnail size"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:59 
+#: inc/vendors/visualcomposer/class-vc-news.php:111 
+#: inc/vendors/visualcomposer/class-vc-news.php:186 
+#: inc/vendors/visualcomposer/class-vc-news.php:255
+msgid ""
+"Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height) . "
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:71
+msgid "(News) FrontPage 4"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:125
+msgid "Grid"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:126
+msgid "List"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:127
+msgid "List not image"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:131
+msgid "(News) Grid Posts"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:135
+msgid "Post having news,managzine style"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:159
+msgid "Layout Type"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:164
+msgid "Select Skin layout."
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:177 
+#: inc/vendors/visualcomposer/class-vc-news.php:238
+msgid "Grid Columns"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:201
+msgid "(News) Slideshow Post"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:205
+msgid "Play Posts In slideshow"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-news.php:220
+msgid "Heading Description"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:18
+msgid "PBR Quick Links Menu"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:22
+msgid "Show Quick Links To Access"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:35 
+#: inc/vendors/visualcomposer/class-vc-theme.php:72
+msgid "Select menu."
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:53
+msgid "PBR Vertical MegaMenu"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:76
+msgid "Position"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:83
+msgid "Postion Menu Vertical."
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:95
+msgid "Fixed Show Vertical Menu "
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:99
+msgid "Always showing vertical menu on top"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:106
+msgid ""
+"When enabled vertical megamenu widget on main navition and its menu content "
+"will be showed by this module. This module will work with header:Martket, "
+"Market-V2, Market-V3"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:116
+msgid "PBR Our Team Grid Style"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:138 
+#: inc/vendors/visualcomposer/class-vc-theme.php:246
+msgid "Job"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:153 
+#: inc/vendors/visualcomposer/class-vc-theme.php:239
+msgid "Phone"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:160
+msgid "Google Plus"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:167 
+#: inc/vendors/visualcomposer/class-vc-theme.php:274
+msgid "Facebook"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:175 
+#: inc/vendors/visualcomposer/class-vc-theme.php:282
+msgid "Twitter"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:183
+msgid "Pinterest"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:191 
+#: inc/vendors/visualcomposer/class-vc-theme.php:290
+msgid "Linked In"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:201 
+#: inc/vendors/visualcomposer/class-vc-theme.php:300
+msgid "circle"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:201 
+#: inc/vendors/visualcomposer/class-vc-theme.php:300
+msgid "vertical"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:201 
+#: inc/vendors/visualcomposer/class-vc-theme.php:300
+msgid "horizontal"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:217
+msgid "PBR Our Team List Style"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:220
+msgid "Show Info In List Style"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:253
+msgid "Information"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:260
+msgid "Blockquote"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:318
+msgid "PBR Widget Heading"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:322
+msgid "Create title for one Widget"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:329 
+#: inc/vendors/visualcomposer/class-vc-theme.php:375
+msgid "Enter heading title."
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:344 
+#: inc/vendors/visualcomposer/class-vc-theme.php:410
+msgid "Enter description for title."
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:350
+msgid "default"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:350
+msgid "style-2"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:350
+msgid "style-3"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:350
+msgid "style-4"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:364
+msgid "PBR Banner CountDown"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:368
+msgid "Show CountDown with banner"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:391
+msgid "Date Expired"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:415
+msgid "Description Color"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:431
+msgid "Text Link"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:434
+msgid "Enter your link text"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:439
+msgid "Link Color"
+msgstr ""
+
+#: inc/vendors/visualcomposer/class-vc-theme.php:450
+msgid "Enter your link to redirect"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:41
+msgid "Parallax"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:50 
+#: inc/vendors/visualcomposer/function-vc.php:115
+msgid "Background Styles"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:52 
+#: inc/vendors/visualcomposer/function-vc.php:101 
+#: inc/vendors/visualcomposer/function-vc.php:117
+msgid ""
+"Use Styles Supported In Theme, Select No Use For Customizing on Tab Design "
+"Options"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:54 
+#: inc/vendors/visualcomposer/function-vc.php:103 
+#: inc/vendors/visualcomposer/function-vc.php:119
+msgid "No Use"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:55 
+#: inc/vendors/visualcomposer/function-vc.php:120
+msgid "Background Color Primary"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:56 
+#: inc/vendors/visualcomposer/function-vc.php:121
+msgid "Background Color Info"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:57 
+#: inc/vendors/visualcomposer/function-vc.php:122
+msgid "Background Color Danger"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:58 
+#: inc/vendors/visualcomposer/function-vc.php:123
+msgid "Background Color Warning"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:59 
+#: inc/vendors/visualcomposer/function-vc.php:124
+msgid "Background Color Success"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:60
+msgid "Background Color Theme"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:61
+msgid "Background Color Navy"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:62
+msgid "Background Image 1 Dark"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:63
+msgid "Background Image 2 Dark"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:64
+msgid "Background Image 3 Blue"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:65
+msgid "Background Image 4 Red"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:75
+msgid "Is Boxed"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:78
+msgid "Yes, Boxed"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:79
+msgid "No, Wide"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:90
+msgid ""
+"here to see the list, and use class icons-lg, icons-md, icons-sm to change "
+"its size"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:99
+msgid "Color Styles"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:104
+msgid "Text Color Primary"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:105
+msgid "Text Color Info"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:106
+msgid "Text Color Danger"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:107
+msgid "Text Color Warning"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:108
+msgid "Text Color Success"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:109
+msgid "Text Color White"
+msgstr ""
+
+#: inc/vendors/visualcomposer/function-vc.php:139
+msgid "Image Description"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"In 2016, our default theme lets you create a responsive magazine website "
+"with a sleek, modern design. Feature your favorite homepage content in "
+"either a grid or a slider. Use the three widget areas to customize your "
+"website, and change your content's layout with a full-width page template "
+"and a contributor page to show off your authors. Creating a magazine website "
+"with WordPress has never been easier."
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.wpopal.com/product/fullhouse/"
+msgstr ""
+
+#. Author of the theme
+msgid "Opal Team"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.wpopal.com/"
+msgstr ""

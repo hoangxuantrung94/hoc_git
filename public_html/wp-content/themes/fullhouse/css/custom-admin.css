@@ -1,0 +1,67 @@
+
+/**
+ * Visual Composer Icons
+ */
+  .vc_element-icon{
+  	 background-size: cover;
+  }
+ .vc_element-icon.icon-wpb-news-slideshow{
+ 	background-image: url(../images/news/6.jpg);
+ }
+
+ .vc_element-icon.icon-wpb-news-1{
+ 	background-image: url(../images/news/1.jpg);
+ }
+ .vc_element-icon.icon-wpb-news-2{
+ 	background-image: url(../images/news/2.jpg);
+ }
+ .vc_element-icon.icon-wpb-news-3{
+ 	background-image: url(../images/news/3.jpg);
+ }
+ .vc_element-icon.icon-wpb-news-4{
+ 	background-image: url(../images/news/4.jpg);
+ }
+ .vc_element-icon.icon-wpb-news-5{
+ 	background-image: url(../images/news/5.jpg);
+ }
+ .vc_element-icon.icon-wpb-news-7{
+ 	background-image: url(../images/news/7.jpg);
+ }
+.vc_element-icon.icon-wpb-news-8{
+ 	background-image: url(../images/news/8.jpg);
+ }
+ .vc_element-icon.icon-wpb-news-9{
+ 	background-image: url(../images/news/9.jpg);
+ }
+ .vc_element-icon.icon-wpb-news-10{
+ 	background-image: url(../images/news/10.jpg);
+ }
+ .vc_element-icon.icon-wpb-news-11{
+ 	background-image: url(../images/news/11.jpg);
+ }
+  .vc_element-icon.icon-wpb-news-12{
+ 	background-image: url(../images/news/12.jpg);
+ }
+  .vc_element-icon.icon-wpb-news-13{
+ 	background-image: url(../images/news/13.jpg);
+ }
+
+   .vc_element-icon.icon-wpb-news-14{
+ 	background-image: url(../images/news/14.jpg);
+ }
+
+   .vc_element-icon.icon-wpb-news-15{
+ 	background-image: url(../images/news/15.jpg);
+ }
+
+   .vc_element-icon.icon-wpb-news-16{
+ 	background-image: url(../images/news/16.jpg);
+ }
+
+ .customize-control-PBR_Layout{
+ 	background: #FFF;
+ 	padding:30px;
+ }
+ #update-nag, .update-nag{
+	display: block;
+}

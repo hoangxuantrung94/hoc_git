@@ -1,0 +1,49 @@
+/*
+Theme Name: fullhouse
+Theme URI: http://www.wpopal.com/product/fullhouse/
+Author: Opal Team
+Author URI: https://www.wpopal.com/
+Description: In 2016, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Text Domain: fullhouse
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+/*------------------------------------------------------------------
+[Table of contents]
+1. Utilities
+2. Base
+3. Layout
+4. Page
+5. Post
+6. Form
+7. Responsive
+8. Widget
+
+-------------------------------------------------------------------*/
+@import "bootstrap";
+
+@import "components/variables";
+@import "components/mixins";
+
+@import "components/base";
+@import "components/template-layout";
+
+@import "components/widget-layout";
+@import "components/widgets";
+
+@import "components/nav";
+@import "components/page";
+
+
+@import "components/post-formats";
+@import "components/post-single";
+@import "components/custom-posttype";
+
+@import "components/elements";
+@import "components/vc";
+@import "components/responsive";

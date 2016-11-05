@@ -1,0 +1,143 @@
+/* block */
+
+.#{$block-selector} {
+    margin-bottom: $block-module-margin-bottom !important;
+    position: relative;
+    padding: $block-module-padding;
+    background: transparent;
+    border-width: 0px;
+    border-style: solid;
+    &.text-center {
+        .#{$block-heading-selector} {
+            margin-bottom: 20px;
+            &:after {
+                @include rtl-left(50%);
+                @include rtl-margin-left(-15px);
+            }
+        }
+    }
+    .#{$block-heading-selector}{
+        /* color: $block-module-heading-color; */
+        padding: $block-module-heading-padding;
+        margin: $block-module-heading-margin;
+        text-transform: $block-module-heading-transform;
+        font-size: $block-module-heading-font-size;
+        
+        position: relative;
+        z-index: 10;
+
+         line-height: 1.1;
+        > span{
+            display:  inline-block;
+        }
+        &:after {
+            content: "";
+            background-color: $theme-color;
+            width: 40px;
+            height: 1px;
+            position: absolute;
+            bottom: 0;
+            @include rtl-left(0);
+        } 
+    }
+    .#{$block-content-selector} {
+        @include border-radius ($block-module-content-radius);
+        @include clearfix();
+        border: none;
+        border-top: none;
+        background-color: $block-module-content-bg;
+        overflow: hidden;
+    }
+    .#{$block-heading-reversed-selector}{
+        @include rtl-margin-right(75px);
+    }
+
+    /* block styles */
+    &.nopadding{
+        .#{$block-content-selector}{
+            padding:0;
+            margin: 0;
+        }
+    }
+
+}
+
+.sidebar {
+    .#{$block-selector} {
+        background-color: $white;
+        padding: 25px 30px 30px;
+    }
+}
+
+
+// Contextual variations
+ 
+.#{$block-prefix}-default {
+  @include block-variant($panel-default-border, $panel-default-text, $panel-default-heading-bg, $panel-default-border);
+}
+.#{$block-prefix}-primary {
+  @include block-variant($panel-primary-border, $panel-primary-text, $panel-primary-heading-bg, $panel-primary-border);
+}
+.#{$block-prefix}-success {
+  @include block-variant($panel-success-border, $panel-success-text, $panel-success-heading-bg, $panel-success-border);
+}
+.#{$block-prefix}-info {
+  @include block-variant($panel-info-border, $panel-info-text, $panel-info-heading-bg, $panel-info-border);
+}
+.#{$block-prefix}-warning {
+  @include block-variant($panel-warning-border, $panel-warning-text, $panel-warning-heading-bg, $panel-warning-border);
+}
+.#{$block-prefix}-danger {
+  @include block-variant($panel-danger-border, $panel-danger-text, $panel-danger-heading-bg, $panel-danger-border);
+}
+
+
+#content .vc_row{
+    .#{$block-selector} {
+        .#{$block-heading-selector} {
+              font-size: 36px;
+              position: relative;
+              text-align: center;
+              margin-bottom: 45px;
+              text-transform: uppercase;
+              margin-top: 0;
+              padding-bottom: 35px;
+              background: url('#{$image-theme-path}heading-title-bg.png') no-repeat center bottom;
+              &:after {
+                content: "";
+                border: 2px solid $theme-color;
+                @include border-radius(2px);
+                @include rotate(45deg);
+                position: absolute;
+                bottom:-5px;
+                @include rtl-left(50%);
+                @include square(12px);
+                z-index: 1;
+                @include rtl-margin-left(-6px);
+                background-color: transparent;
+              }
+              .description, .widget-desc{
+                  display: block;
+                  font-size: 18px;
+                  font-style: italic;
+                  color: $light-gray;
+                  font-weight: 400;
+                  text-transform: none;
+                  margin: 10px 0 0;
+                  line-height: 1.4;
+                  font-family: $font-family-base;
+              }
+        }
+    }
+}
+     
+.pbr-footer{
+    .#{$block-selector} {
+        border: none;
+        .#{$block-heading-selector}{
+            & > span{
+                padding: 0px 0px;
+            }
+        }
+    }   
+}

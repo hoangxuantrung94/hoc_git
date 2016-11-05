@@ -1,0 +1,50 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">product</custom-type>
+        <custom-type translate="1">product_variation</custom-type>
+        <custom-type translate="1">shop_order</custom-type>
+        <custom-type translate="1">membership_packages</custom-type>
+        <custom-type translate="1">opalestate_property</custom-type>
+        <custom-type translate="1">faq</custom-type>
+        <custom-type translate="1">wafs</custom-type>
+        <custom-type translate="1">wpcf7_contact_form</custom-type>
+        <custom-type translate="1">brands</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+        <custom-type translate="1">megamenu_profile</custom-type>
+        <custom-type translate="1">footer</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">opalestate_agent_level</taxonomy>
+        <taxonomy translate="1">opalestate_location</taxonomy>
+        <taxonomy translate="1">opalestate_status</taxonomy>
+        <taxonomy translate="1">opalestate_types</taxonomy>
+        <taxonomy translate="1">opalestate_amenities</taxonomy>
+        <taxonomy translate="1">property_category</taxonomy>
+        <taxonomy translate="1">membership_category</taxonomy>
+    </taxonomies>
+ 
+  <admin-texts>
+      <key name="woosa">
+      <key name="logo"/>
+      <key name="404"/>
+      <key name="copyright"/>
+      <key name="layout"/>
+	  <key name="skin"/>
+      <key name="header"/>
+      <key name="footer-style"/>
+      <key name="single-layout"/>
+      <key name="right-sidebar"/>
+      <key name="left-sidebar"/>
+      <key name="post-title"/>
+      <key name="customize-theme"/>
+      <key name="snippet-close-body"/>
+      <key name="snippet-js-body"/>
+      <key name="magemenu-menu"/>
+      <key name="megamenu-is-sticky"/>
+      <key name="magemenu-animation"/>
+      <key name="megamenu-duration"/>
+      <key name="magemenu-offcanvas-effect"/>
+      <key name="magemenu-menu-vertical"/>
+    </key>
+  </admin-texts>
+</wpml-config>
