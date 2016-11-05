@@ -1,0 +1,21 @@
+.import-process-wrap{
+	width:300px;
+	display: none;
+}
+.progress {
+  width: 0%;
+  height: 10px;
+  background: red;
+}
+.progress-wrap {
+  background: #DDD;
+  margin: 10px 0;
+  overflow: hidden;
+  position: relative;
+  .progress-bar {
+    background: #ddd;
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+}

@@ -1,0 +1,227 @@
+# Translation of Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-11-11 03:45:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: inc/fields/taxonomy.php:48
+msgid "Select a term"
+msgstr ""
+
+#: inc/fields/media.php:124
+msgctxt "media"
+msgid "No Title"
+msgstr "Không tiêu đề"
+
+#. Description of the plugin/theme
+msgid "Create custom meta boxes and custom fields for any post type in WordPress."
+msgstr "Tạo các meta box và các trường tùy biến cho bất kỳ loại dữ liệu nào trong WordPress."
+
+#: inc/field.php:196
+msgid "+ Add more"
+msgstr "+ Thêm"
+
+#: inc/fields/media.php:118
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ Thêm file"
+
+#: inc/fields/media.php:119
+msgctxt "media"
+msgid "Remove"
+msgstr "Xóa"
+
+#: inc/fields/media.php:120
+msgctxt "media"
+msgid "Edit"
+msgstr "Sửa"
+
+#: inc/fields/media.php:121
+msgctxt "media"
+msgid "View"
+msgstr "Xem"
+
+#: inc/fields/media.php:122
+msgctxt "media"
+msgid " file"
+msgstr "file"
+
+#: inc/fields/media.php:123
+msgctxt "media"
+msgid " files"
+msgstr "file"
+
+#: inc/core.php:40
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: inc/core.php:41
+msgid "Extensions"
+msgstr "Phần mở rộng"
+
+#: inc/fields/autocomplete.php:14 inc/fields/autocomplete.php:75
+#: inc/fields/autocomplete.php:92
+msgid "Delete"
+msgstr "Xóa"
+
+#: inc/fields/button.php:29
+msgid "Click me"
+msgstr "Nhấn ngay"
+
+#: inc/fields/checkbox.php:85
+msgid "Yes"
+msgstr "Có"
+
+#: inc/fields/checkbox.php:85
+msgid "No"
+msgstr "Không"
+
+#: inc/fields/file.php:153
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Xóa"
+
+#: inc/fields/file.php:154
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Sửa"
+
+#: inc/fields/file-input.php:18
+msgid "Select File"
+msgstr "Chọn file"
+
+#: inc/fields/file-input.php:41 inc/fields/select.php:188
+msgid "Select"
+msgstr "Chọn"
+
+#: inc/fields/file-input.php:43
+msgid "Remove"
+msgstr "Xóa"
+
+#: inc/fields/file.php:15
+msgid "You may only upload maximum %d file"
+msgstr "Bạn chỉ được phép upload tối đa %d file"
+
+#: inc/fields/file.php:16
+msgid "You may only upload maximum %d files"
+msgstr "Bạn chỉ được phép upload tối đa %d file"
+
+#: inc/fields/file.php:83
+msgid "Error: Cannot delete file"
+msgstr "Lỗi: Không xóa được file"
+
+#: inc/fields/file.php:96
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr "Tải file"
+
+#: inc/fields/file.php:97
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Thêm file mới"
+
+#: inc/fields/image.php:124
+msgctxt "image upload"
+msgid "Delete"
+msgstr "Xóa"
+
+#: inc/fields/image.php:125
+msgctxt "image upload"
+msgid "Edit"
+msgstr "Sửa"
+
+#: inc/fields/image.php:61 inc/fields/thickbox-image.php:33
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "Tải file"
+
+#: inc/fields/image.php:62
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr "+ Thêm hình mới"
+
+#: inc/fields/key-value.php:19
+msgid "Key"
+msgstr "Tên"
+
+#: inc/fields/key-value.php:25
+msgid "Value"
+msgstr "Giá trị"
+
+#: inc/fields/map.php:49
+msgid "Find Address"
+msgstr "Tìm địa chỉ"
+
+#: inc/fields/oembed.php:50
+msgid "Embed HTML not available."
+msgstr "Mã HTML nhúng đa phương tiện không khả dụng."
+
+#: inc/fields/oembed.php:69
+msgid "Preview"
+msgstr "Xem trước"
+
+#: inc/fields/plupload-image.php:74
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr "Kéo thả hình ảnh vào đây"
+
+#: inc/fields/plupload-image.php:75
+msgctxt "image upload"
+msgid "or"
+msgstr "hoặc"
+
+#: inc/fields/plupload-image.php:76
+msgctxt "image upload"
+msgid "Select Files"
+msgstr "Chọn file"
+
+#: inc/fields/plupload-image.php:149
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr "Các file hình ảnh được cho phép"
+
+#: inc/fields/post.php:33
+msgid "Select a post"
+msgstr "Chọn 1 bài viết"
+
+#: inc/fields/post.php:37 inc/fields/taxonomy.php:52
+msgid "Select a %s"
+msgstr "Chọn %s"
+
+#: inc/fields/select.php:188
+msgid "All"
+msgstr "Tất cả"
+
+#: inc/fields/select.php:188
+msgid "None"
+msgstr "Không mục nào"
+
+#: inc/fields/user.php:37
+msgid "Select an user"
+msgstr "Chọn 1 người dùng"
+
+#: inc/validation.php:42
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Vui lòng sửa các lỗi dưới đây và thử lại"
+
+#. Plugin Name of the plugin/theme
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#. Plugin URI of the plugin/theme
+msgid "https://metabox.io"
+msgstr "http://metabox.io"
+
+#. Author of the plugin/theme
+msgid "Rilwis"
+msgstr "Rilwis"
+
+#. Author URI of the plugin/theme
+msgid "http://www.deluxeblogtips.com"
+msgstr "http://www.deluxeblogtips.com"

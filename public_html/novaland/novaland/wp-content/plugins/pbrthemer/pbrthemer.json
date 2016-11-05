@@ -1,0 +1,22 @@
+{
+    "name" : "Wpopal Framework For Themes",
+    "slug" : "pbrthemer",
+    "homepage" : "http://wpopal.com/",
+    "download_url" : "http://www.wpopal.com/themeframework/pbrthemer.zip",
+    
+    "version" : "1.2.4.3",
+    "requires" : "4.0",
+    "tested" : "4.5.3",
+    "last_updated" : "2016-08-15 12:00:00",
+    "upgrade_notice" : "Here's why you should upgrade...",
+    
+    "author" : "WPOPAL",
+    "author_homepage" : "http://wpopal.com/",
+    
+    "sections" : {
+        "description" : "Implement rich functions for themes base on prestabrain wordpress framework and load widgets for theme used, this is required.",
+        "installation" : "Upload or install by notice required the Wpopal Framework For Themes plugin to your site, Activate it.",
+        "changelog" : " Changelog. <h4>1.2.4.3</h4><p><em>Release Date - 15 August 2016</em><ul><li>Fix function import data.</li></ul><h4>1.2.4.2</h4><p><em>Release Date - 03 August 2016</em><ul><li>Add file language for plugin.</li><li>Add Instagram social for Social widget.</li><li>Fix some mirror bugs.</li></ul><h4>1.2.4</h4><p><em>Release Date - 25 March 2016</em><ul><li>Fix notice layout widgets.</li></ul><h4>1.2.3</h4><p><em>Release Date - 02 March 2016</em><ul><li>Add field upload image for PBR Popup Newsletter Widget.</li></ul><h4>1.2.2</h4><p><em>Release Date - 23 February 2016</em><ul><li>Fix config link brands.</li><li>Add field style in config element brands.</li><li>Remove field image in element brands.</li><li>Added field config colums testimonial.</li><li>Remove field Excerpt in posttye Testimonial.</li></ul><h4>1.2.1</h4><p><em>Release Date - 20 February 2016</em><ul><li>Added check update plugin.</li></ul>"
+    }
+    
+}

@@ -1,0 +1,15 @@
+.post-type-opalestate_property .post-state{
+	background:#ef114c;
+	font-size: 10px;
+	font-weight: normal;
+	padding: 3px 6px;
+	color:#FFF;
+	border-radius: 5px 5px 5px;
+}
+.fixed .column-featured,
+.fixed .column-sku{
+	width: 10%;
+}
+.fixed .column-address{
+	width: 20%;
+}

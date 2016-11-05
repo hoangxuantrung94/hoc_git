@@ -1,0 +1,1609 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wpopal Framework For Themes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Aug 03 2016 16:04:07 GMT+0700 (SE Asia Standard Time)\n"
+"POT-Revision-Date: Wed Aug 03 2016 16:04:16 GMT+0700 (SE Asia Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Wpopal Framework For Themes"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.wpopal.com"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Implement rich functions for themes base on prestabrain wordpress framework "
+"and load widgets for theme used, this is required."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPOPAL"
+msgstr ""
+
+#. ID
+#: ../setting.class.php:70
+msgid "Post Types Settings"
+msgstr ""
+
+#: ../export/export.php:73
+msgid "You do not have sufficient permissions to export the content of this site."
+msgstr ""
+
+#: ../export/export.php:77
+msgid "Export"
+msgstr ""
+
+#: ../export/export.php:330 ../export/export.php:330
+msgid "WpOpal Export"
+msgstr ""
+
+#: ../export/export.php:359
+msgid "Export Wordpress Content"
+msgstr ""
+
+#: ../export/export.php:407
+msgid "Export Revolution Slider"
+msgstr ""
+
+#: ../export/export.php:412
+msgid ""
+"Please access Revolution Slider and use export tools to get package then put "
+"inside THEME/inc/import/THEMENAME"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:140 ../import/class.wordpress-importer.
+#: php:149 ../import/class.wordpress-importer.php:200 ../import/class.wordpress-
+#: importer.php:205 ../import/class.wordpress-importer.php:215
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:141
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:184
+msgid "All done."
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:184
+msgid "Have fun!"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:185
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:206
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:224
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:249
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:276
+msgid "Assign Authors"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:277
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:279
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:289
+msgid "Import Attachments"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:293
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:298
+msgid "Submit"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:311
+msgid "Import author:"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:325
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:328
+msgid "as a new user:"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:336
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:338
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:342
+msgid "- Select -"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:397
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:455
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:501
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:558 ../import/class.wordpress-importer.
+#: php:716
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:585
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:609
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:679
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:856
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:864
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:935
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:951
+msgid "Invalid file type"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:999
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:1006
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:1014
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:1020
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:1027
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:1139
+msgid "Import WordPress"
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:1146
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:1161
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../import/class.wordpress-importer.php:1162
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../import/import.php:115
+msgid "Customizer options imported successfully"
+msgstr ""
+
+#: ../import/import.php:188 ../import/import.php:302
+msgid "An Error Occurred During Import"
+msgstr ""
+
+#: ../import/import.php:191 ../import/import.php:305
+msgid "Content imported successfully"
+msgstr ""
+
+#: ../import/import.php:195 ../import/import.php:309
+msgid "Error loading files"
+msgstr ""
+
+#: ../import/import.php:214
+msgid "Widgets imported successfully"
+msgstr ""
+
+#: ../import/import.php:322 ../import/import.php:342
+msgid "File doesn't exist"
+msgstr ""
+
+#: ../import/import.php:388 ../import/import.php:388
+msgid "WpOpal Import"
+msgstr ""
+
+#: ../import/import.php:415
+msgid ""
+"Click to the follow buttons to get sample demo from our live sites, the "
+"package will put into THEME/inc/import folder.<br> Or you can copy the demo "
+"package from the downloadable you purchased. <br> Please make sure this "
+"folder has writeable permision"
+msgstr ""
+
+#: ../import/import.php:420
+msgid "THEME/inc/import folder is not writeable"
+msgstr ""
+
+#: ../import/import.php:427
+msgid "Get Demo From Live Server"
+msgstr ""
+
+#: ../import/import.php:442
+msgid ""
+"Please wait when the import is running! It will take time needed to download "
+"all attachments from demo web site."
+msgstr ""
+
+#: ../import/import.php:448
+msgid "Demo Source"
+msgstr ""
+
+#: ../import/import.php:458
+msgid "Import Type"
+msgstr ""
+
+#: ../import/import.php:461
+msgid "Please Select "
+msgstr ""
+
+#: ../import/import.php:473
+msgid "Import"
+msgstr ""
+
+#: ../import/import.php:486
+msgid "This theme has not any package ready for installing demo."
+msgstr ""
+
+#: ../import/import.php:516
+msgid "Please choose import type!"
+msgstr ""
+
+#: ../import/import.php:520
+msgid "Do you want to import demo now?"
+msgstr ""
+
+#: ../import/parsers.php:45 ../import/parsers.php:76 ../import/parsers.php:84
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../import/parsers.php:46
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../import/parsers.php:89 ../import/parsers.php:95 ../import/parsers.php:329 ..
+#: /import/parsers.php:545
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../posttypes/brands.php:18
+msgid "Brand Logos"
+msgstr ""
+
+#: ../posttypes/brands.php:19
+msgid "Brand"
+msgstr ""
+
+#: ../posttypes/brands.php:20 ../posttypes/brands.php:21
+msgid "Add New Brand"
+msgstr ""
+
+#: ../posttypes/brands.php:22
+msgid "Edit Brand"
+msgstr ""
+
+#: ../posttypes/brands.php:23
+msgid "New Brand"
+msgstr ""
+
+#: ../posttypes/brands.php:24
+msgid "View Brand"
+msgstr ""
+
+#: ../posttypes/brands.php:25
+msgid "Search Brands"
+msgstr ""
+
+#: ../posttypes/brands.php:26
+msgid "No Brands found"
+msgstr ""
+
+#: ../posttypes/brands.php:27
+msgid "No Brands found in Trash"
+msgstr ""
+
+#: ../posttypes/brands.php:28
+msgid "Parent Brand:"
+msgstr ""
+
+#: ../posttypes/brands.php:29
+msgid "Brands"
+msgstr ""
+
+#: ../posttypes/brands.php:72
+msgid "Brand Link"
+msgstr ""
+
+#: ../posttypes/brands.php:76
+msgid "Enter Link To"
+msgstr ""
+
+#: ../posttypes/brands.php:95
+msgid "Brand Setting"
+msgstr ""
+
+#: ../posttypes/brands.php:134
+msgid "PBR Brands Carousel"
+msgstr ""
+
+#: ../posttypes/brands.php:138 ../posttypes/portfolio.php:226 ../posttypes/team.
+#: php:212 ../posttypes/testimonials.php:136
+msgid "PBR Post Type"
+msgstr ""
+
+#: ../posttypes/brands.php:142 ../posttypes/portfolio.php:230 ../posttypes/team.
+#: php:216 ../posttypes/testimonials.php:140 ../widgets/contact-info.php:19
+msgid "Title"
+msgstr ""
+
+#: ../posttypes/brands.php:149
+msgid "Descriptions"
+msgstr ""
+
+#: ../posttypes/brands.php:155
+msgid "Number post"
+msgstr ""
+
+#: ../posttypes/brands.php:161 ../posttypes/portfolio.php:272 ../posttypes/team.
+#: php:229
+msgid "Columns count"
+msgstr ""
+
+#: ../posttypes/brands.php:164 ../posttypes/team.php:232
+msgid "2 Items"
+msgstr ""
+
+#: ../posttypes/brands.php:165 ../posttypes/team.php:233
+msgid "3 Items"
+msgstr ""
+
+#: ../posttypes/brands.php:166 ../posttypes/team.php:234
+msgid "4 Items"
+msgstr ""
+
+#: ../posttypes/brands.php:167 ../posttypes/team.php:235
+msgid "5 Items"
+msgstr ""
+
+#: ../posttypes/brands.php:168 ../posttypes/team.php:236
+msgid "6 Items"
+msgstr ""
+
+#: ../posttypes/brands.php:174
+msgid "Styles"
+msgstr ""
+
+#: ../posttypes/brands.php:177
+msgid "Grid"
+msgstr ""
+
+#: ../posttypes/brands.php:178
+msgid "Carousel"
+msgstr ""
+
+#: ../posttypes/brands.php:184 ../posttypes/portfolio.php:290 ../posttypes/team.
+#: php:242 ../posttypes/testimonials.php:170
+msgid "Extra class name"
+msgstr ""
+
+#: ../posttypes/brands.php:186 ../posttypes/portfolio.php:292 ../posttypes/team.
+#: php:244 ../posttypes/testimonials.php:172
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../posttypes/faq.php:23
+msgid "FAQs"
+msgstr ""
+
+#: ../posttypes/footer.php:18 ../posttypes/footer.php:29
+msgid "Footers"
+msgstr ""
+
+#: ../posttypes/footer.php:19
+msgid "Footer"
+msgstr ""
+
+#: ../posttypes/footer.php:20 ../posttypes/footer.php:21
+msgid "Add Profile Footer"
+msgstr ""
+
+#: ../posttypes/footer.php:22
+msgid "Edit Footer"
+msgstr ""
+
+#: ../posttypes/footer.php:23 ../posttypes/megamenu.php:381
+msgid "New Profile"
+msgstr ""
+
+#: ../posttypes/footer.php:24
+msgid "View Footer Profile"
+msgstr ""
+
+#: ../posttypes/footer.php:25
+msgid "Search Footer Profiles"
+msgstr ""
+
+#: ../posttypes/footer.php:26
+msgid "No Footer Profiles found"
+msgstr ""
+
+#: ../posttypes/footer.php:27
+msgid "No Footer Profiles found in Trash"
+msgstr ""
+
+#: ../posttypes/footer.php:28
+msgid "Parent Footer:"
+msgstr ""
+
+#: ../posttypes/gallery.php:17 ../posttypes/gallery.php:28
+msgid "Gallerys"
+msgstr ""
+
+#: ../posttypes/gallery.php:18 ../posttypes/portfolio.php:113
+msgid "Gallery"
+msgstr ""
+
+#: ../posttypes/gallery.php:19 ../posttypes/gallery.php:20
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../posttypes/gallery.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../posttypes/gallery.php:22
+msgid "New Gallery"
+msgstr ""
+
+#: ../posttypes/gallery.php:23
+msgid "View Gallery"
+msgstr ""
+
+#: ../posttypes/gallery.php:24
+msgid "Search Gallerys"
+msgstr ""
+
+#: ../posttypes/gallery.php:25
+msgid "No Gallerys found"
+msgstr ""
+
+#: ../posttypes/gallery.php:26
+msgid "No Gallerys found in Trash"
+msgstr ""
+
+#: ../posttypes/gallery.php:27
+msgid "Parent Gallery:"
+msgstr ""
+
+#: ../posttypes/gallery.php:57 ../posttypes/gallery.php:67 ../posttypes/portfolio.
+#: php:57 ../posttypes/portfolio.php:67 ../posttypes/team.php:86
+msgid "Categories"
+msgstr ""
+
+#: ../posttypes/gallery.php:58 ../posttypes/portfolio.php:58 ../posttypes/team.
+#: php:77 ../posttypes/video.php:54
+msgid "Category"
+msgstr ""
+
+#: ../posttypes/gallery.php:59 ../posttypes/portfolio.php:59 ../posttypes/team.
+#: php:78 ../posttypes/video.php:55
+msgid "Search Category"
+msgstr ""
+
+#: ../posttypes/gallery.php:60 ../posttypes/portfolio.php:60 ../posttypes/team.
+#: php:79 ../posttypes/video.php:56
+msgid "All Categories"
+msgstr ""
+
+#: ../posttypes/gallery.php:61 ../posttypes/portfolio.php:61 ../posttypes/team.
+#: php:80 ../posttypes/video.php:57
+msgid "Parent Category"
+msgstr ""
+
+#: ../posttypes/gallery.php:62 ../posttypes/portfolio.php:62 ../posttypes/team.
+#: php:81 ../posttypes/video.php:58
+msgid "Parent Category:"
+msgstr ""
+
+#: ../posttypes/gallery.php:63 ../posttypes/portfolio.php:63 ../posttypes/team.
+#: php:82 ../posttypes/video.php:59
+msgid "Edit Category"
+msgstr ""
+
+#: ../posttypes/gallery.php:64 ../posttypes/portfolio.php:64 ../posttypes/team.
+#: php:83 ../posttypes/video.php:60
+msgid "Update Category"
+msgstr ""
+
+#: ../posttypes/gallery.php:65 ../posttypes/portfolio.php:65 ../posttypes/team.
+#: php:84 ../posttypes/video.php:61
+msgid "Add New Category"
+msgstr ""
+
+#: ../posttypes/gallery.php:66 ../posttypes/portfolio.php:66 ../posttypes/team.
+#: php:85 ../posttypes/video.php:62
+msgid "New Category Name"
+msgstr ""
+
+#: ../posttypes/megamenu.php:79
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: ../posttypes/megamenu.php:83
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../posttypes/megamenu.php:107
+msgid "Move up"
+msgstr ""
+
+#: ../posttypes/megamenu.php:120
+msgid "Move down"
+msgstr ""
+
+#: ../posttypes/megamenu.php:122 ../posttypes/megamenu.php:124
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../posttypes/megamenu.php:133
+msgid "URL"
+msgstr ""
+
+#: ../posttypes/megamenu.php:140
+msgid "Navigation Label"
+msgstr ""
+
+#: ../posttypes/megamenu.php:146
+msgid "Title Attribute"
+msgstr ""
+
+#: ../posttypes/megamenu.php:153
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../posttypes/megamenu.php:158
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../posttypes/megamenu.php:164
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../posttypes/megamenu.php:170 ../posttypes/portfolio.php:248 ..
+#: /widgets/contact-info.php:20
+msgid "Description"
+msgstr ""
+
+#: ../posttypes/megamenu.php:172
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../posttypes/megamenu.php:193
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../posttypes/megamenu.php:206
+msgid "Remove"
+msgstr ""
+
+#: ../posttypes/megamenu.php:207
+msgid "Cancel"
+msgstr ""
+
+#: ../posttypes/megamenu.php:285
+msgid "Label"
+msgstr ""
+
+#: ../posttypes/megamenu.php:287
+msgid "None"
+msgstr ""
+
+#: ../posttypes/megamenu.php:288
+msgid "New"
+msgstr ""
+
+#: ../posttypes/megamenu.php:289
+msgid "Hot"
+msgstr ""
+
+#: ../posttypes/megamenu.php:290
+msgid "Featured"
+msgstr ""
+
+#: ../posttypes/megamenu.php:304 ../posttypes/megamenu.php:498
+msgid "Megamenu Profile"
+msgstr ""
+
+#: ../posttypes/megamenu.php:306 ../posttypes/megamenu.php:500
+msgid "Disable"
+msgstr ""
+
+#: ../posttypes/megamenu.php:313 ../posttypes/megamenu.php:313
+msgid "Profiles Management"
+msgstr ""
+
+#: ../posttypes/megamenu.php:314
+msgid "If enabled megamenu, its submenu will be disabled"
+msgstr ""
+
+#: ../posttypes/megamenu.php:318 ../posttypes/megamenu.php:508
+msgid "Width:"
+msgstr ""
+
+#: ../posttypes/megamenu.php:325 ../posttypes/megamenu.php:470 ..
+#: /posttypes/megamenu.php:515
+msgid "Left"
+msgstr ""
+
+#: ../posttypes/megamenu.php:326 ../posttypes/megamenu.php:471 ..
+#: /posttypes/megamenu.php:516
+msgid "Right"
+msgstr ""
+
+#: ../posttypes/megamenu.php:327 ../posttypes/megamenu.php:472 ..
+#: /posttypes/megamenu.php:517
+msgid "Fullwidth"
+msgstr ""
+
+#: ../posttypes/megamenu.php:331 ../posttypes/megamenu.php:522
+msgid "Alignment:"
+msgstr ""
+
+#: ../posttypes/megamenu.php:376 ../posttypes/megamenu.php:377 ..
+#: /posttypes/megamenu.php:387
+msgid "Megamenu"
+msgstr ""
+
+#: ../posttypes/megamenu.php:378 ../posttypes/megamenu.php:379
+msgid "Add Profile"
+msgstr ""
+
+#: ../posttypes/megamenu.php:380
+msgid "Edit Profile"
+msgstr ""
+
+#: ../posttypes/megamenu.php:382
+msgid "View Profile"
+msgstr ""
+
+#: ../posttypes/megamenu.php:383
+msgid "Search Profile"
+msgstr ""
+
+#: ../posttypes/megamenu.php:384
+msgid "No Profiles found"
+msgstr ""
+
+#: ../posttypes/megamenu.php:385
+msgid "No Profiles found in Trash"
+msgstr ""
+
+#: ../posttypes/megamenu.php:386
+msgid "Parent Profile:"
+msgstr ""
+
+#: ../posttypes/megamenu.php:431
+msgid "Megamenu Assignment"
+msgstr ""
+
+#: ../posttypes/megamenu.php:438
+msgid "Menu Group"
+msgstr ""
+
+#: ../posttypes/megamenu.php:455
+msgid "Reset"
+msgstr ""
+
+#: ../posttypes/megamenu.php:496
+msgid "Close"
+msgstr ""
+
+#: ../posttypes/portfolio.php:17 ../posttypes/portfolio.php:28
+msgid "Portfolios"
+msgstr ""
+
+#: ../posttypes/portfolio.php:18
+msgid "Portfolio"
+msgstr ""
+
+#: ../posttypes/portfolio.php:19 ../posttypes/portfolio.php:20
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../posttypes/portfolio.php:21
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../posttypes/portfolio.php:22
+msgid "New Portfolio"
+msgstr ""
+
+#: ../posttypes/portfolio.php:23
+msgid "View Portfolio"
+msgstr ""
+
+#: ../posttypes/portfolio.php:24
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../posttypes/portfolio.php:25
+msgid "No Portfolios found"
+msgstr ""
+
+#: ../posttypes/portfolio.php:26
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+#: ../posttypes/portfolio.php:27
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: ../posttypes/portfolio.php:105
+msgid "Select"
+msgstr ""
+
+#: ../posttypes/portfolio.php:110
+msgid "Default"
+msgstr ""
+
+#: ../posttypes/portfolio.php:111
+msgid "FullScreen"
+msgstr ""
+
+#: ../posttypes/portfolio.php:112 ../posttypes/video.php:18 ../posttypes/video.
+#: php:19
+msgid "Video"
+msgstr ""
+
+#: ../posttypes/portfolio.php:114
+msgid "Slideshow"
+msgstr ""
+
+#: ../posttypes/portfolio.php:119
+msgid "Select an Item"
+msgstr ""
+
+#: ../posttypes/portfolio.php:125
+msgid "Video Link"
+msgstr ""
+
+#: ../posttypes/portfolio.php:128
+msgid "Support Show Video From Youtube and Vimeo"
+msgstr ""
+
+#: ../posttypes/portfolio.php:134
+msgid "Image Galleries"
+msgstr ""
+
+#: ../posttypes/portfolio.php:143
+msgid "Author FullName"
+msgstr ""
+
+#: ../posttypes/portfolio.php:146 ../posttypes/portfolio.php:160
+msgid "Enter Full Name For Author"
+msgstr ""
+
+#: ../posttypes/portfolio.php:150
+msgid "Showcase Link"
+msgstr ""
+
+#: ../posttypes/portfolio.php:153
+msgid "Enter the link to showcase site"
+msgstr ""
+
+#: ../posttypes/portfolio.php:157
+msgid "Client"
+msgstr ""
+
+#: ../posttypes/portfolio.php:164
+msgid "Date Created"
+msgstr ""
+
+#: ../posttypes/portfolio.php:167
+msgid "Enter date released the project"
+msgstr ""
+
+#: ../posttypes/portfolio.php:188
+msgid "Portfolio Setting"
+msgstr ""
+
+#: ../posttypes/portfolio.php:221
+msgid "PBR Portfolio"
+msgstr ""
+
+#: ../posttypes/portfolio.php:237
+msgid "Item No Padding"
+msgstr ""
+
+#: ../posttypes/portfolio.php:255
+msgid "Display Masonry"
+msgstr ""
+
+#: ../posttypes/portfolio.php:258 ../widgets/twitter.php:128
+msgid "No"
+msgstr ""
+
+#: ../posttypes/portfolio.php:259 ../widgets/twitter.php:127
+msgid "Yes"
+msgstr ""
+
+#: ../posttypes/portfolio.php:265
+msgid "Number of portfolio to show"
+msgstr ""
+
+#: ../posttypes/portfolio.php:277
+msgid "Select columns count."
+msgstr ""
+
+#: ../posttypes/portfolio.php:281
+msgid "Enable Pagination"
+msgstr ""
+
+#: ../posttypes/portfolio.php:286
+msgid "Select style display."
+msgstr ""
+
+#: ../posttypes/team.php:41 ../posttypes/team.php:42
+msgid "Team"
+msgstr ""
+
+#: ../posttypes/team.php:43 ../posttypes/team.php:44
+msgid "Add New Team"
+msgstr ""
+
+#: ../posttypes/team.php:45
+msgid "Edit Team"
+msgstr ""
+
+#: ../posttypes/team.php:46
+msgid "New Team"
+msgstr ""
+
+#: ../posttypes/team.php:47
+msgid "View Team"
+msgstr ""
+
+#: ../posttypes/team.php:48
+msgid "Search Teams"
+msgstr ""
+
+#: ../posttypes/team.php:49
+msgid "No Teams found"
+msgstr ""
+
+#: ../posttypes/team.php:50
+msgid "No Teams found in Trash"
+msgstr ""
+
+#: ../posttypes/team.php:51
+msgid "Parent Team:"
+msgstr ""
+
+#: ../posttypes/team.php:52
+msgid "Teams"
+msgstr ""
+
+#: ../posttypes/team.php:76
+msgid "Teacher Categories"
+msgstr ""
+
+#: ../posttypes/team.php:122 ../posttypes/testimonials.php:70
+msgid "Job"
+msgstr ""
+
+#: ../posttypes/team.php:125 ../posttypes/testimonials.php:73
+msgid "Enter Job example CEO, CTO"
+msgstr ""
+
+#: ../posttypes/team.php:131 ../templates/widgets/contact-info/default.php:68
+msgid "Phone Number"
+msgstr ""
+
+#: ../posttypes/team.php:140
+msgid "Google Plus Link"
+msgstr ""
+
+#: ../posttypes/team.php:143
+msgid "Enter google"
+msgstr ""
+
+#: ../posttypes/team.php:147
+msgid "Facebook Link"
+msgstr ""
+
+#: ../posttypes/team.php:150
+msgid "Enter facebook"
+msgstr ""
+
+#: ../posttypes/team.php:154
+msgid "Twitter"
+msgstr ""
+
+#: ../posttypes/team.php:157
+msgid "Enter Twitter"
+msgstr ""
+
+#: ../posttypes/team.php:161
+msgid "Printest"
+msgstr ""
+
+#: ../posttypes/team.php:164
+msgid "Enter pinterest"
+msgstr ""
+
+#: ../posttypes/team.php:181
+msgid "Team Setting"
+msgstr ""
+
+#: ../posttypes/team.php:208
+msgid "Team Grid (Team Source)"
+msgstr ""
+
+#: ../posttypes/team.php:223
+msgid "Number items"
+msgstr ""
+
+#: ../posttypes/testimonials.php:18 ../posttypes/testimonials.php:19
+msgid "Testimonial"
+msgstr ""
+
+#: ../posttypes/testimonials.php:20 ../posttypes/testimonials.php:21
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../posttypes/testimonials.php:22
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../posttypes/testimonials.php:23
+msgid "New Testimonial"
+msgstr ""
+
+#: ../posttypes/testimonials.php:24
+msgid "View Testimonial"
+msgstr ""
+
+#: ../posttypes/testimonials.php:25
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../posttypes/testimonials.php:26
+msgid "No Testimonials found"
+msgstr ""
+
+#: ../posttypes/testimonials.php:27
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: ../posttypes/testimonials.php:28
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: ../posttypes/testimonials.php:29
+msgid "Testimonials"
+msgstr ""
+
+#: ../posttypes/testimonials.php:78
+msgid "Link"
+msgstr ""
+
+#: ../posttypes/testimonials.php:81
+msgid "Enter Link to this personal"
+msgstr ""
+
+#: ../posttypes/testimonials.php:100
+msgid "Testimonials Info"
+msgstr ""
+
+#: ../posttypes/testimonials.php:132
+msgid "PBR Testimonials"
+msgstr ""
+
+#: ../posttypes/testimonials.php:134
+msgid "Play Testimonials In Carousel"
+msgstr ""
+
+#: ../posttypes/testimonials.php:148
+msgid "Number"
+msgstr ""
+
+#: ../posttypes/testimonials.php:154
+msgid "Columns"
+msgstr ""
+
+#: ../posttypes/testimonials.php:158
+msgid "Select Columns layout."
+msgstr ""
+
+#: ../posttypes/testimonials.php:162
+msgid "Skin"
+msgstr ""
+
+#: ../posttypes/testimonials.php:166
+msgid "Select Skin layout."
+msgstr ""
+
+#: ../posttypes/video.php:20 ../posttypes/video.php:21
+msgid "Add New Video"
+msgstr ""
+
+#: ../posttypes/video.php:22
+msgid "Edit Video"
+msgstr ""
+
+#: ../posttypes/video.php:23
+msgid "New Video"
+msgstr ""
+
+#: ../posttypes/video.php:24
+msgid "View Video"
+msgstr ""
+
+#: ../posttypes/video.php:25
+msgid "Search Videos"
+msgstr ""
+
+#: ../posttypes/video.php:26
+msgid "No Videos found"
+msgstr ""
+
+#: ../posttypes/video.php:27
+msgid "No Videos found in Trash"
+msgstr ""
+
+#: ../posttypes/video.php:28
+msgid "Parent Video:"
+msgstr ""
+
+#: ../posttypes/video.php:29
+msgid "Videos"
+msgstr ""
+
+#: ../posttypes/video.php:53 ../posttypes/video.php:63
+msgid "Categories Video"
+msgstr ""
+
+#: ../templates/portfolio/portfolio-information.php:8
+msgid "Information"
+msgstr ""
+
+#: ../templates/portfolio/portfolio-information.php:15
+msgid "Tags:"
+msgstr ""
+
+#: ../templates/portfolio/portfolio-related.php:5
+msgid "You may also like"
+msgstr ""
+
+#: ../templates/widgets/no-layout.php:3
+msgid "This widget missed layout"
+msgstr ""
+
+#: ../templates/widgets/contact-info/default.php:60
+msgid "head Office"
+msgstr ""
+
+#: ../templates/widgets/recent_comment/default.php:32 ..
+#: /templates/widgets/tabs/default.php:104
+msgid "says"
+msgstr ""
+
+#: ../templates/widgets/recent_post/stick.php:54 ..
+#: /templates/widgets/recent_post/stick.php:73
+msgid " 0 comment"
+msgstr ""
+
+#: ../templates/widgets/recent_post/stick.php:54 ..
+#: /templates/widgets/recent_post/stick.php:73
+msgid " 1 comment"
+msgstr ""
+
+#: ../templates/widgets/recent_post/stick.php:54 ..
+#: /templates/widgets/recent_post/stick.php:73
+#, php-format
+msgid " % comments"
+msgstr ""
+
+#: ../templates/widgets/tabs/default.php:4
+msgid "Popular"
+msgstr ""
+
+#: ../templates/widgets/tabs/default.php:9
+msgid "Recent"
+msgstr ""
+
+#: ../templates/widgets/tabs/default.php:14
+msgid "Comments"
+msgstr ""
+
+#: ../templates/widgets/video/default.php:14
+msgid "Video error!"
+msgstr ""
+
+#: ../templates/woocommerce/product-image-h.php:58 ..
+#: /templates/woocommerce/product-image.php:58
+msgid "Placeholder"
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/contact-info.php:12
+msgid "PBR Contact Info Widget"
+msgstr ""
+
+#: ../widgets/contact-info.php:14
+msgid "Add contact information. "
+msgstr ""
+
+#: ../widgets/contact-info.php:21
+msgid "Company"
+msgstr ""
+
+#: ../widgets/contact-info.php:22
+msgid "Country"
+msgstr ""
+
+#: ../widgets/contact-info.php:23
+msgid "Locality"
+msgstr ""
+
+#: ../widgets/contact-info.php:24
+msgid "Region"
+msgstr ""
+
+#: ../widgets/contact-info.php:25
+msgid "Street"
+msgstr ""
+
+#: ../widgets/contact-info.php:26
+msgid "Working Days"
+msgstr ""
+
+#: ../widgets/contact-info.php:27
+msgid "Working Hours"
+msgstr ""
+
+#: ../widgets/contact-info.php:28
+msgid "Phone"
+msgstr ""
+
+#: ../widgets/contact-info.php:29
+msgid "Mobile"
+msgstr ""
+
+#: ../widgets/contact-info.php:30
+msgid "Fax"
+msgstr ""
+
+#: ../widgets/contact-info.php:31
+msgid "Skype"
+msgstr ""
+
+#: ../widgets/contact-info.php:32
+msgid "Email Address"
+msgstr ""
+
+#: ../widgets/contact-info.php:33
+msgid "Email"
+msgstr ""
+
+#: ../widgets/contact-info.php:34
+msgid "Website URL"
+msgstr ""
+
+#: ../widgets/contact-info.php:35
+msgid "Website"
+msgstr ""
+
+#: ../widgets/contact-info.php:61
+msgid "Contact Info"
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/facebook_like.php:21
+msgid "PBR Facebook Like Box"
+msgstr ""
+
+#: ../widgets/facebook_like.php:23
+msgid "Adds support for Facebook Like Box. "
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/featured_post.php:23
+msgid "PBR Featured Post Widget"
+msgstr ""
+
+#: ../widgets/featured_post.php:56 ../widgets/recent_post.php:50
+msgid "Type:"
+msgstr ""
+
+#: ../widgets/featured_post.php:68 ../widgets/top_rate.php:112 ../widgets/twitter.
+#: php:140
+msgid "Limit:"
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/flickr.php:21
+msgid "PBR Flickr"
+msgstr ""
+
+#: ../widgets/flickr.php:23
+msgid "The most recent photos from flickr."
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/menu_vertical.php:21
+msgid "PBR Menu Vertical Widget"
+msgstr ""
+
+#: ../widgets/menu_vertical.php:23
+msgid "Show Menu Vertical"
+msgstr ""
+
+#: ../widgets/menu_vertical.php:64 ../widgets/popupnewsletter.php:73 ..
+#: /widgets/posts.php:49 ../widgets/recent_comment.php:52 ../widgets/recent_post.
+#: php:45 ../widgets/twitter.php:132 ../widgets/video.php:52
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/menu_vertical.php:71
+msgid "---Select Menu---"
+msgstr ""
+
+#: ../widgets/menu_vertical.php:81
+msgid "Left:"
+msgstr ""
+
+#: ../widgets/menu_vertical.php:82
+msgid "Right:"
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/popupnewsletter.php:23
+msgid "PBR Popup Newsletter Widget"
+msgstr ""
+
+#: ../widgets/popupnewsletter.php:25
+msgid "Adds support Popup To Show Newsletter. "
+msgstr ""
+
+#: ../widgets/popupnewsletter.php:79
+msgid "Description:"
+msgstr ""
+
+#: ../widgets/popupnewsletter.php:84
+msgid "Image background:"
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/posts.php:21
+msgid "PBR Posts Widget"
+msgstr ""
+
+#: ../widgets/posts.php:54
+msgid "Posts:"
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/recent_comment.php:21
+msgid "PBR Recent Comments Widget"
+msgstr ""
+
+#: ../widgets/recent_comment.php:23
+msgid "Show list of recent comments"
+msgstr ""
+
+#: ../widgets/recent_comment.php:41
+msgid "Latest Post"
+msgstr ""
+
+#: ../widgets/recent_comment.php:56
+msgid "Num Comments:"
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/recent_post.php:21
+msgid "PBR Recent Posts Widget"
+msgstr ""
+
+#: ../widgets/recent_post.php:23
+msgid "Show list of recent post"
+msgstr ""
+
+#: ../widgets/recent_post.php:62
+msgid "Num Posts:"
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/sliders.php:23
+msgid "PBR Sliders Widget"
+msgstr ""
+
+#: ../widgets/sliders.php:25
+msgid "Adds support Slider. "
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/socials.php:21
+msgid "PBR Socials"
+msgstr ""
+
+#: ../widgets/socials.php:23
+msgid "Socials for website."
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/socials_siderbar.php:21
+msgid "PBR Socials Siderbar"
+msgstr ""
+
+#: ../widgets/socials_siderbar.php:23
+msgid "Share Socials Siderbar for website."
+msgstr ""
+
+#: ../widgets/socials_siderbar.php:96
+msgid "Share services social:"
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/tabs.php:21
+msgid "PBR Tabs Widget"
+msgstr ""
+
+#: ../widgets/tabs.php:23
+msgid "Popular posts, recent post and comments."
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/top_rate.php:23
+msgid "PBR Top Rate Widget"
+msgstr ""
+
+#: ../widgets/top_rate.php:25
+msgid "The highest rated posts on your site"
+msgstr ""
+
+#: ../widgets/top_rate.php:35
+msgid "Top Rated"
+msgstr ""
+
+#: ../widgets/top_rate.php:75
+msgid "Get most rated:"
+msgstr ""
+
+#: ../widgets/top_rate.php:84
+msgid "Sort by:"
+msgstr ""
+
+#: ../widgets/top_rate.php:86
+msgid "Overall bayesian rating (score)"
+msgstr ""
+
+#: ../widgets/top_rate.php:87
+msgid "Average rating"
+msgstr ""
+
+#: ../widgets/top_rate.php:88
+msgid "Number of votes"
+msgstr ""
+
+#: ../widgets/top_rate.php:95
+msgid "Descending"
+msgstr ""
+
+#: ../widgets/top_rate.php:100
+msgid "Ascending"
+msgstr ""
+
+#: ../widgets/top_rate.php:105
+msgid "Ignore posts older than:"
+msgstr ""
+
+#: ../widgets/top_rate.php:106
+msgid "days"
+msgstr ""
+
+#: ../widgets/top_rate.php:108
+msgid "(0 to ignore date)"
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/twitter.php:22
+msgid "PBR Latest Twitter"
+msgstr ""
+
+#: ../widgets/twitter.php:24
+msgid "Latest Twitter widget."
+msgstr ""
+
+#: ../widgets/twitter.php:107
+msgid "Latest tweets."
+msgstr ""
+
+#: ../widgets/twitter.php:108
+msgid "Leotheme"
+msgstr ""
+
+#: ../widgets/twitter.php:136
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../widgets/twitter.php:144
+msgid "Twitter Id:"
+msgstr ""
+
+#: ../widgets/twitter.php:148
+msgid "Border Color:"
+msgstr ""
+
+#: ../widgets/twitter.php:153
+msgid "Link Color:"
+msgstr ""
+
+#: ../widgets/twitter.php:158
+msgid "Text Color:"
+msgstr ""
+
+#: ../widgets/twitter.php:163
+msgid "Name Color:"
+msgstr ""
+
+#: ../widgets/twitter.php:168
+msgid "Mail Color:"
+msgstr ""
+
+#: ../widgets/twitter.php:173
+msgid "Show background"
+msgstr ""
+
+#: ../widgets/twitter.php:182
+msgid "Show Replies"
+msgstr ""
+
+#: ../widgets/twitter.php:191
+msgid "Show Header"
+msgstr ""
+
+#: ../widgets/twitter.php:200
+msgid "Show Footer"
+msgstr ""
+
+#: ../widgets/twitter.php:209
+msgid "Show Border"
+msgstr ""
+
+#: ../widgets/twitter.php:218
+msgid "Show Scrollbar"
+msgstr ""
+
+#. Widget name will appear in UI
+#: ../widgets/video.php:20
+msgid "PBR Featured Video Widget"
+msgstr ""
+
+#: ../widgets/video.php:22
+msgid "Show Featured video"
+msgstr ""
+
+#: ../widgets/video.php:58
+msgid "Video link:"
+msgstr ""
+
+#: ../widgets/video.php:62
+msgid ""
+"Support video from Youtube and Vimeo link. Ex: https://www.youtube.com/watch?"
+"v=Drei_jt2kos"
+msgstr ""
+
+#: ../widgets/video.php:66
+msgid "Video name:"
+msgstr ""
+
+#: ../widgets/video.php:72
+msgid "Video width:"
+msgstr ""

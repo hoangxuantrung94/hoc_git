@@ -1,0 +1,2679 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Opal Estate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-29 11:15+0000\n"
+"PO-Revision-Date: 2016-08-29 11:15+0000\n"
+"Last-Translator: admin <admin@admin.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: install.php:28 inc/class-opalestate-submission.php:101
+msgid "Property Submission Page"
+msgstr ""
+
+#: install.php:29
+msgid "[opalestate_submission]"
+msgstr ""
+
+#: install.php:53
+msgid "Property Submission Listing Page"
+msgstr ""
+
+#: install.php:54
+msgid "[submission_list_page]"
+msgstr ""
+
+#: install.php:71 inc/admin/register-settings.php:172
+msgid "Profile Page"
+msgstr ""
+
+#: install.php:72
+msgid "[opalestate_user_profile]"
+msgstr ""
+
+#: install.php:89 install.php:108 inc/admin/register-settings.php:183
+msgid "Favorite Page"
+msgstr ""
+
+#: install.php:90
+msgid "[opalestate_user_favious_properties]"
+msgstr ""
+
+#: install.php:109
+msgid "[opalestate_search_agents]"
+msgstr ""
+
+#: opalestate.php:158
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/ajax-functions.php:51
+msgid "Message has been successfully sent."
+msgstr ""
+
+#: inc/ajax-functions.php:53
+msgid "Unable to send a message."
+msgstr ""
+
+#: inc/ajax-functions.php:111 inc/ajax-functions.php:116
+msgid "Could not set this as featured"
+msgstr ""
+
+#: inc/class-opalestate-email.php:44
+msgid "Email"
+msgstr ""
+
+#: inc/class-opalestate-email.php:97 inc/class-opalestate-email.php:101 
+#: inc/class-opalestate-submission.php:91
+msgid "Email Settings"
+msgstr ""
+
+#: inc/class-opalestate-email.php:108
+msgid "From Name"
+msgstr ""
+
+#: inc/class-opalestate-email.php:109
+msgid ""
+"The name donation receipts are said to come from. This should probably be "
+"your site or shop name."
+msgstr ""
+
+#: inc/class-opalestate-email.php:115
+msgid "From Email"
+msgstr ""
+
+#: inc/class-opalestate-email.php:116
+msgid ""
+"Email to send donation receipts from. This will act as the \"from\" and "
+"\"reply-to\" address."
+msgstr ""
+
+#: inc/class-opalestate-email.php:122
+msgid "Email Templates (Template Tags)"
+msgstr ""
+
+#: inc/class-opalestate-email.php:128
+msgid "Notification For New Property Submission"
+msgstr ""
+
+#: inc/class-opalestate-email.php:137 inc/class-opalestate-email.php:172
+msgid "Email Subject"
+msgstr ""
+
+#: inc/class-opalestate-email.php:139
+msgid "The email subject for admin notifications."
+msgstr ""
+
+#: inc/class-opalestate-email.php:144
+msgid "New property submitted - {property_name}"
+msgstr ""
+
+#: inc/class-opalestate-email.php:149 inc/class-opalestate-email.php:183
+msgid "Email Body"
+msgstr ""
+
+#: inc/class-opalestate-email.php:151
+msgid ""
+"Enter the email an admin should receive when an initial payment request is "
+"made."
+msgstr ""
+
+#: inc/class-opalestate-email.php:165
+msgid "Approve property for publish"
+msgstr ""
+
+#: inc/class-opalestate-email.php:174
+msgid ""
+"The email subject a user should receive when they make an initial property "
+"request."
+msgstr ""
+
+#: inc/class-opalestate-email.php:185 inc/class-opalestate-submission.php:124
+msgid ""
+"Enter the email a user should receive when they make an initial payment "
+"request."
+msgstr ""
+
+#: inc/class-opalestate-property.php:294 inc/class-opalestate-property.php:301
+msgid "Unknow Agent"
+msgstr ""
+
+#: inc/class-opalestate-roles.php:49
+msgid "Opal Estate Manager"
+msgstr ""
+
+#: inc/class-opalestate-roles.php:80
+msgid "Opal Estate Agent"
+msgstr ""
+
+#: inc/class-opalestate-search.php:236 inc/class-opalestate-search.php:238
+msgid "Bed Rooms"
+msgstr ""
+
+#: inc/class-opalestate-search.php:237 
+#: inc/post-types/class-post-type-property.php:312
+msgid "Parking"
+msgstr ""
+
+#: inc/class-opalestate-shortcodes.php:37
+msgid "Agent Profile"
+msgstr ""
+
+#: inc/class-opalestate-shortcodes.php:38
+msgid "Search Properties Result"
+msgstr ""
+
+#: inc/class-opalestate-shortcodes.php:39 inc/widgets/search-properties.php:56 
+#: templates/parts/search-form-v.php:27
+msgid "Search Properties"
+msgstr ""
+
+#: inc/class-opalestate-shortcodes.php:40
+msgid "Search Properties Vertical"
+msgstr ""
+
+#: inc/class-opalestate-shortcodes.php:41
+msgid "Search Agents"
+msgstr ""
+
+#: inc/class-opalestate-submission.php:42
+msgid "Submission Form"
+msgstr ""
+
+#: inc/class-opalestate-submission.php:46 inc/template-functions.php:126
+msgid "My Properties"
+msgstr ""
+
+#: inc/class-opalestate-submission.php:50
+msgid "Submission Require Login"
+msgstr ""
+
+#: inc/class-opalestate-submission.php:84
+msgid "Submission Page"
+msgstr ""
+
+#: inc/class-opalestate-submission.php:95
+msgid "Submission page Settings"
+msgstr ""
+
+#: inc/class-opalestate-submission.php:102
+msgid ""
+"This is the submission page. The <code>[opalestate_submission]</code> "
+"shortcode should be on this page."
+msgstr ""
+
+#: inc/class-opalestate-submission.php:111
+msgid "Property Listings Page"
+msgstr ""
+
+#: inc/class-opalestate-submission.php:112
+msgid ""
+"This is the submission list page with logined user. The <code>"
+"[opalestate_submission_list]</code> shortcode should be on this page."
+msgstr ""
+
+#: inc/class-opalestate-submission.php:122
+msgid "Content Show User Not Login"
+msgstr ""
+
+#: inc/class-opalestate-submission.php:151
+msgid "Edit My Property"
+msgstr ""
+
+#: inc/class-opalestate-submission.php:198 inc/class-opalestate-user.php:513
+msgid "A metabox with the specified 'metabox_id' doesn't exist."
+msgstr ""
+
+#: inc/class-opalestate-submission.php:289
+msgid "An error occured when add new a property."
+msgstr ""
+
+#: inc/class-opalestate-submission.php:313
+msgid "Property has been successfully updated."
+msgstr ""
+
+#: inc/class-opalestate-submission.php:348
+msgid "Property has been successfully removed."
+msgstr ""
+
+#: inc/class-opalestate-submission.php:350
+msgid "An error occured when removing an item."
+msgstr ""
+
+#: inc/class-opalestate-user.php:35
+msgid "User Profile"
+msgstr ""
+
+#: inc/class-opalestate-user.php:103
+msgid "Your account is blocked form submission, you could not submit any more."
+msgstr ""
+
+#: inc/class-opalestate-user.php:112
+msgid "Your account is blocked, you could not complete this action"
+msgstr ""
+
+#: inc/class-opalestate-user.php:202
+msgid "Found a problem while updating"
+msgstr ""
+
+#: inc/class-opalestate-user.php:213
+msgid "passwords fields are not empty"
+msgstr ""
+
+#: inc/class-opalestate-user.php:218
+msgid "New password is not same confirm password"
+msgstr ""
+
+#: inc/class-opalestate-user.php:227
+msgid "Password Updated"
+msgstr ""
+
+#: inc/class-opalestate-user.php:229
+msgid "Old password is not correct"
+msgstr ""
+
+#: inc/class-opalestate-user.php:284
+msgid "First Name"
+msgstr ""
+
+#: inc/class-opalestate-user.php:294
+msgid "Last Name"
+msgstr ""
+
+#: inc/class-opalestate-user.php:303
+msgid "Biographical Info"
+msgstr ""
+
+#: inc/class-opalestate-user.php:305 
+#: inc/post-types/class-post-type-property.php:241 
+#: inc/post-types/class-post-type-property.php:618
+msgid ""
+"Input for videos, audios from Youtube, Vimeo and all supported sites by "
+"WordPress. It has preview feature."
+msgstr ""
+
+#: inc/class-opalestate-user.php:311
+msgid "Title/Job"
+msgstr ""
+
+#: inc/class-opalestate-user.php:313
+msgid "Please enter position or job in your company."
+msgstr ""
+
+#: inc/class-opalestate-user.php:314
+msgid "Information"
+msgstr ""
+
+#: inc/class-opalestate-user.php:319
+msgid "company"
+msgstr ""
+
+#: inc/class-opalestate-user.php:321
+msgid "Please enter company name."
+msgstr ""
+
+#: inc/class-opalestate-user.php:325
+msgid "Contact email"
+msgstr ""
+
+#: inc/class-opalestate-user.php:327
+msgid ""
+"Enter contact name that allow user contact you via the contact form of "
+"website."
+msgstr ""
+
+#: inc/class-opalestate-user.php:333 
+#: inc/post-types/class-post-type-agent.php:187
+msgid "Phone"
+msgstr ""
+
+#: inc/class-opalestate-user.php:335
+msgid "Enter your home phone."
+msgstr ""
+
+#: inc/class-opalestate-user.php:340
+msgid "Skype"
+msgstr ""
+
+#: inc/class-opalestate-user.php:342
+msgid "Input for skype account."
+msgstr ""
+
+#: inc/class-opalestate-user.php:347
+msgid "Website URL"
+msgstr ""
+
+#: inc/class-opalestate-user.php:349
+msgid "Link to your website"
+msgstr ""
+
+#: inc/class-opalestate-user.php:355 
+#: inc/post-types/class-post-type-agent.php:218
+msgid "Facebook"
+msgstr ""
+
+#: inc/class-opalestate-user.php:357
+msgid "Enter your facebook profile or facebook newfeed"
+msgstr ""
+
+#: inc/class-opalestate-user.php:358
+msgid "Social"
+msgstr ""
+
+#: inc/class-opalestate-user.php:363
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/class-opalestate-user.php:365
+msgid "Input for linked in profile."
+msgstr ""
+
+#: inc/class-opalestate-user.php:369
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/class-opalestate-user.php:371
+msgid "Input for instagram profile."
+msgstr ""
+
+#: inc/class-opalestate-user.php:375
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/class-opalestate-user.php:377
+msgid "Input for pinterest feed"
+msgstr ""
+
+#: inc/class-opalestate-user.php:382
+msgid "Google Plus Url"
+msgstr ""
+
+#: inc/class-opalestate-user.php:384
+msgid "Input for goolge plus profile or your newfeed."
+msgstr ""
+
+#: inc/class-opalestate-user.php:389
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/class-opalestate-user.php:391
+msgid "Input for your channel youtube."
+msgstr ""
+
+#: inc/class-opalestate-user.php:396
+msgid "Vimeo Url"
+msgstr ""
+
+#: inc/class-opalestate-user.php:398
+msgid "Input for your channel Vimeo"
+msgstr ""
+
+#: inc/class-opalestate-user.php:407
+msgid "Block Submssion"
+msgstr ""
+
+#: inc/class-opalestate-user.php:440 inc/class-opalestate-user.php:452 
+#: inc/post-types/class-post-type-property.php:533
+msgid "Name and Description"
+msgstr ""
+
+#: inc/class-opalestate-user.php:461
+msgid "Old Password"
+msgstr ""
+
+#: inc/class-opalestate-user.php:466
+msgid "Please enter your old password"
+msgstr ""
+
+#: inc/class-opalestate-user.php:470
+msgid "New Password"
+msgstr ""
+
+#: inc/class-opalestate-user.php:475
+msgid "Please enter your new password."
+msgstr ""
+
+#: inc/class-opalestate-user.php:479
+msgid "Confirm Password"
+msgstr ""
+
+#: inc/class-opalestate-user.php:484
+msgid "Please enter your confirm password."
+msgstr ""
+
+#: inc/class-opalestate-vc.php:180
+msgid "Search Property Box "
+msgstr ""
+
+#: inc/class-opalestate-vc.php:184 inc/class-opalestate-vc.php:203 
+#: inc/class-opalestate-vc.php:230 inc/class-opalestate-vc.php:269 
+#: inc/class-opalestate-vc.php:318 inc/class-opalestate-vc.php:362 
+#: inc/class-opalestate-vc.php:417 inc/class-opalestate-vc.php:510 
+#: inc/class-opalestate-vc.php:564 inc/class-opalestate-vc.php:612
+msgid "OpalEstate"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:189 inc/class-opalestate-vc.php:208 
+#: inc/class-opalestate-vc.php:234 inc/class-opalestate-vc.php:273 
+#: inc/class-opalestate-vc.php:322 inc/class-opalestate-vc.php:366 
+#: inc/class-opalestate-vc.php:421 inc/class-opalestate-vc.php:514 
+#: inc/class-opalestate-vc.php:568 inc/class-opalestate-vc.php:616 
+#: inc/post-types/class-post-type-property.php:563
+msgid "Title"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:199
+msgid "Search Agents Box "
+msgstr ""
+
+#: inc/class-opalestate-vc.php:217 inc/class-opalestate-vc.php:247 
+#: inc/class-opalestate-vc.php:373 inc/class-opalestate-vc.php:428 
+#: templates/content-property-list.php:72 
+#: inc/post-types/class-post-type-property.php:572
+msgid "Description"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:226 templates/content-single-property-v2.php:16 
+#: templates/content-single-property.php:16
+msgid "Featured Property"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:241
+msgid "Title Color"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:243
+msgid "Select font color"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:256 inc/class-opalestate-vc.php:295 
+#: inc/class-opalestate-vc.php:349 inc/class-opalestate-vc.php:393 
+#: inc/class-opalestate-vc.php:487 inc/class-opalestate-vc.php:589 
+#: inc/class-opalestate-vc.php:637
+msgid "Limit"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:259 inc/class-opalestate-vc.php:298 
+#: inc/class-opalestate-vc.php:352 inc/class-opalestate-vc.php:396 
+#: inc/class-opalestate-vc.php:490 inc/class-opalestate-vc.php:543 
+#: inc/class-opalestate-vc.php:640
+msgid "Limit featured properties showing"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:265
+msgid "Carousel Property"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:280 inc/class-opalestate-vc.php:521 
+#: inc/class-opalestate-vc.php:575 inc/class-opalestate-vc.php:623
+msgid "description"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:287 inc/class-opalestate-vc.php:342 
+#: inc/class-opalestate-vc.php:385 inc/class-opalestate-vc.php:479 
+#: inc/class-opalestate-vc.php:533 inc/class-opalestate-vc.php:582 
+#: inc/class-opalestate-vc.php:630
+msgid "Column"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:303
+msgid "Enable Thumbnail"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:306 inc/admin/register-settings.php:368 
+#: inc/admin/register-settings.php:387
+msgid "Disable"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:307 inc/admin/register-settings.php:369 
+#: inc/admin/register-settings.php:388
+msgid "Enable"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:314
+msgid "Manual Carousel Properties"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:330 
+#: inc/post-types/class-post-type-property.php:58 
+#: inc/post-types/class-post-type-property.php:70
+msgid "Properties"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:358
+msgid "Grid Property"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:380 inc/class-opalestate-vc.php:474 
+#: inc/class-opalestate-vc.php:528
+msgid "Show Sort By"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:400 inc/class-opalestate-vc.php:494 
+#: inc/class-opalestate-vc.php:547
+msgid "Don't show Description"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:405 inc/class-opalestate-vc.php:499 
+#: inc/class-opalestate-vc.php:552 inc/class-opalestate-vc.php:601 
+#: inc/class-opalestate-vc.php:649
+msgid "Pagination"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:413
+msgid "Filter Property"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:435
+msgid "Categories"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:439
+msgid "Select Categories"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:448 
+#: inc/taxonomies/class-taxonomy-locations.php:34 
+#: inc/taxonomies/class-taxonomy-locations.php:44
+msgid "Locations"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:452
+msgid "Select Locations"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:461 
+#: inc/post-types/class-post-type-agent.php:126 
+#: inc/post-types/class-post-type-property.php:595 
+#: inc/taxonomies/class-taxonomy-types.php:34 
+#: inc/taxonomies/class-taxonomy-types.php:44
+msgid "Types"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:465 inc/taxonomies/class-taxonomy-types.php:66
+msgid "Select Types"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:506
+msgid "List Property"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:540
+msgid "Limit per page"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:560
+msgid "Grid Agent"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:592
+msgid "Limit featured agents showing"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:596 inc/class-opalestate-vc.php:644
+msgid "Show Featured Only"
+msgstr ""
+
+#: inc/class-opalestate-vc.php:608
+msgid "List Agent"
+msgstr ""
+
+#: inc/function-search-fields.php:48
+msgid "Area:"
+msgstr ""
+
+#: inc/mixes-functions.php:41 inc/mixes-functions.php:45
+msgid "Your Location"
+msgstr ""
+
+#: inc/mixes-functions.php:176
+msgid "United Arab Emirates dirham"
+msgstr ""
+
+#: inc/mixes-functions.php:177
+msgid "Afghan afghani"
+msgstr ""
+
+#: inc/mixes-functions.php:178
+msgid "Albanian lek"
+msgstr ""
+
+#: inc/mixes-functions.php:179
+msgid "Armenian dram"
+msgstr ""
+
+#: inc/mixes-functions.php:180
+msgid "Netherlands Antillean guilder"
+msgstr ""
+
+#: inc/mixes-functions.php:181
+msgid "Angolan kwanza"
+msgstr ""
+
+#: inc/mixes-functions.php:182
+msgid "Argentine peso"
+msgstr ""
+
+#: inc/mixes-functions.php:183
+msgid "Australian dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:184
+msgid "Aruban florin"
+msgstr ""
+
+#: inc/mixes-functions.php:185
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: inc/mixes-functions.php:186
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr ""
+
+#: inc/mixes-functions.php:187
+msgid "Barbadian dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:188
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: inc/mixes-functions.php:189
+msgid "Bulgarian lev"
+msgstr ""
+
+#: inc/mixes-functions.php:190
+msgid "Bahraini dinar"
+msgstr ""
+
+#: inc/mixes-functions.php:191
+msgid "Burundian franc"
+msgstr ""
+
+#: inc/mixes-functions.php:192
+msgid "Bermudian dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:193
+msgid "Brunei dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:194
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: inc/mixes-functions.php:195
+msgid "Brazilian real"
+msgstr ""
+
+#: inc/mixes-functions.php:196
+msgid "Bahamian dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:197
+msgid "Bitcoin"
+msgstr ""
+
+#: inc/mixes-functions.php:198
+msgid "Bhutanese ngultrum"
+msgstr ""
+
+#: inc/mixes-functions.php:199
+msgid "Botswana pula"
+msgstr ""
+
+#: inc/mixes-functions.php:200
+msgid "Belarusian ruble"
+msgstr ""
+
+#: inc/mixes-functions.php:201
+msgid "Belize dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:202
+msgid "Canadian dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:203
+msgid "Congolese franc"
+msgstr ""
+
+#: inc/mixes-functions.php:204
+msgid "Swiss franc"
+msgstr ""
+
+#: inc/mixes-functions.php:205
+msgid "Chilean peso"
+msgstr ""
+
+#: inc/mixes-functions.php:206
+msgid "Chinese yuan"
+msgstr ""
+
+#: inc/mixes-functions.php:207
+msgid "Colombian peso"
+msgstr ""
+
+#: inc/mixes-functions.php:208
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: inc/mixes-functions.php:209
+msgid "Cuban convertible peso"
+msgstr ""
+
+#: inc/mixes-functions.php:210
+msgid "Cuban peso"
+msgstr ""
+
+#: inc/mixes-functions.php:211
+msgid "Cape Verdean escudo"
+msgstr ""
+
+#: inc/mixes-functions.php:212
+msgid "Czech koruna"
+msgstr ""
+
+#: inc/mixes-functions.php:213
+msgid "Djiboutian franc"
+msgstr ""
+
+#: inc/mixes-functions.php:214
+msgid "Danish krone"
+msgstr ""
+
+#: inc/mixes-functions.php:215
+msgid "Dominican peso"
+msgstr ""
+
+#: inc/mixes-functions.php:216
+msgid "Algerian dinar"
+msgstr ""
+
+#: inc/mixes-functions.php:217
+msgid "Egyptian pound"
+msgstr ""
+
+#: inc/mixes-functions.php:218
+msgid "Eritrean nakfa"
+msgstr ""
+
+#: inc/mixes-functions.php:219
+msgid "Ethiopian birr"
+msgstr ""
+
+#: inc/mixes-functions.php:220
+msgid "Euro"
+msgstr ""
+
+#: inc/mixes-functions.php:221
+msgid "Fijian dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:222
+msgid "Falkland Islands pound"
+msgstr ""
+
+#: inc/mixes-functions.php:223
+msgid "Pound sterling"
+msgstr ""
+
+#: inc/mixes-functions.php:224
+msgid "Georgian lari"
+msgstr ""
+
+#: inc/mixes-functions.php:225
+msgid "Guernsey pound"
+msgstr ""
+
+#: inc/mixes-functions.php:226
+msgid "Ghana cedi"
+msgstr ""
+
+#: inc/mixes-functions.php:227
+msgid "Gibraltar pound"
+msgstr ""
+
+#: inc/mixes-functions.php:228
+msgid "Gambian dalasi"
+msgstr ""
+
+#: inc/mixes-functions.php:229
+msgid "Guinean franc"
+msgstr ""
+
+#: inc/mixes-functions.php:230
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: inc/mixes-functions.php:231
+msgid "Guyanese dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:232
+msgid "Hong Kong dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:233
+msgid "Honduran lempira"
+msgstr ""
+
+#: inc/mixes-functions.php:234
+msgid "Croatian kuna"
+msgstr ""
+
+#: inc/mixes-functions.php:235
+msgid "Haitian gourde"
+msgstr ""
+
+#: inc/mixes-functions.php:236
+msgid "Hungarian forint"
+msgstr ""
+
+#: inc/mixes-functions.php:237
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: inc/mixes-functions.php:238
+msgid "Israeli new shekel"
+msgstr ""
+
+#: inc/mixes-functions.php:239
+msgid "Manx pound"
+msgstr ""
+
+#: inc/mixes-functions.php:240
+msgid "Indian rupee"
+msgstr ""
+
+#: inc/mixes-functions.php:241
+msgid "Iraqi dinar"
+msgstr ""
+
+#: inc/mixes-functions.php:242
+msgid "Iranian rial"
+msgstr ""
+
+#: inc/mixes-functions.php:243
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: inc/mixes-functions.php:244
+msgid "Jersey pound"
+msgstr ""
+
+#: inc/mixes-functions.php:245
+msgid "Jamaican dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:246
+msgid "Jordanian dinar"
+msgstr ""
+
+#: inc/mixes-functions.php:247
+msgid "Japanese yen"
+msgstr ""
+
+#: inc/mixes-functions.php:248
+msgid "Kenyan shilling"
+msgstr ""
+
+#: inc/mixes-functions.php:249
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: inc/mixes-functions.php:250
+msgid "Cambodian riel"
+msgstr ""
+
+#: inc/mixes-functions.php:251
+msgid "Comorian franc"
+msgstr ""
+
+#: inc/mixes-functions.php:252
+msgid "North Korean won"
+msgstr ""
+
+#: inc/mixes-functions.php:253
+msgid "South Korean won"
+msgstr ""
+
+#: inc/mixes-functions.php:254
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: inc/mixes-functions.php:255
+msgid "Cayman Islands dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:256
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: inc/mixes-functions.php:257
+msgid "Lao kip"
+msgstr ""
+
+#: inc/mixes-functions.php:258
+msgid "Lebanese pound"
+msgstr ""
+
+#: inc/mixes-functions.php:259
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: inc/mixes-functions.php:260
+msgid "Liberian dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:261
+msgid "Lesotho loti"
+msgstr ""
+
+#: inc/mixes-functions.php:262
+msgid "Libyan dinar"
+msgstr ""
+
+#: inc/mixes-functions.php:263
+msgid "Moroccan dirham"
+msgstr ""
+
+#: inc/mixes-functions.php:264
+msgid "Moldovan leu"
+msgstr ""
+
+#: inc/mixes-functions.php:265
+msgid "Malagasy ariary"
+msgstr ""
+
+#: inc/mixes-functions.php:266
+msgid "Macedonian denar"
+msgstr ""
+
+#: inc/mixes-functions.php:267
+msgid "Burmese kyat"
+msgstr ""
+
+#: inc/mixes-functions.php:268
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: inc/mixes-functions.php:269
+msgid "Macanese pataca"
+msgstr ""
+
+#: inc/mixes-functions.php:270
+msgid "Mauritanian ouguiya"
+msgstr ""
+
+#: inc/mixes-functions.php:271
+msgid "Mauritian rupee"
+msgstr ""
+
+#: inc/mixes-functions.php:272
+msgid "Maldivian rufiyaa"
+msgstr ""
+
+#: inc/mixes-functions.php:273
+msgid "Malawian kwacha"
+msgstr ""
+
+#: inc/mixes-functions.php:274
+msgid "Mexican peso"
+msgstr ""
+
+#: inc/mixes-functions.php:275
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: inc/mixes-functions.php:276
+msgid "Mozambican metical"
+msgstr ""
+
+#: inc/mixes-functions.php:277
+msgid "Namibian dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:278
+msgid "Nigerian naira"
+msgstr ""
+
+#: inc/mixes-functions.php:279
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: inc/mixes-functions.php:280
+msgid "Norwegian krone"
+msgstr ""
+
+#: inc/mixes-functions.php:281
+msgid "Nepalese rupee"
+msgstr ""
+
+#: inc/mixes-functions.php:282
+msgid "New Zealand dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:283
+msgid "Omani rial"
+msgstr ""
+
+#: inc/mixes-functions.php:284
+msgid "Panamanian balboa"
+msgstr ""
+
+#: inc/mixes-functions.php:285
+msgid "Peruvian nuevo sol"
+msgstr ""
+
+#: inc/mixes-functions.php:286
+msgid "Papua New Guinean kina"
+msgstr ""
+
+#: inc/mixes-functions.php:287
+msgid "Philippine peso"
+msgstr ""
+
+#: inc/mixes-functions.php:288
+msgid "Pakistani rupee"
+msgstr ""
+
+#: inc/mixes-functions.php:289
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: inc/mixes-functions.php:290
+msgid "Transnistrian ruble"
+msgstr ""
+
+#: inc/mixes-functions.php:291
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: inc/mixes-functions.php:292
+msgid "Qatari riyal"
+msgstr ""
+
+#: inc/mixes-functions.php:293
+msgid "Romanian leu"
+msgstr ""
+
+#: inc/mixes-functions.php:294
+msgid "Serbian dinar"
+msgstr ""
+
+#: inc/mixes-functions.php:295
+msgid "Russian ruble"
+msgstr ""
+
+#: inc/mixes-functions.php:296
+msgid "Rwandan franc"
+msgstr ""
+
+#: inc/mixes-functions.php:297
+msgid "Saudi riyal"
+msgstr ""
+
+#: inc/mixes-functions.php:298
+msgid "Solomon Islands dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:299
+msgid "Seychellois rupee"
+msgstr ""
+
+#: inc/mixes-functions.php:300
+msgid "Sudanese pound"
+msgstr ""
+
+#: inc/mixes-functions.php:301
+msgid "Swedish krona"
+msgstr ""
+
+#: inc/mixes-functions.php:302
+msgid "Singapore dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:303
+msgid "Saint Helena pound"
+msgstr ""
+
+#: inc/mixes-functions.php:304
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: inc/mixes-functions.php:305
+msgid "Somali shilling"
+msgstr ""
+
+#: inc/mixes-functions.php:306
+msgid "Surinamese dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:307
+msgid "South Sudanese pound"
+msgstr ""
+
+#: inc/mixes-functions.php:308
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe dobra"
+msgstr ""
+
+#: inc/mixes-functions.php:309
+msgid "Syrian pound"
+msgstr ""
+
+#: inc/mixes-functions.php:310
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: inc/mixes-functions.php:311
+msgid "Thai baht"
+msgstr ""
+
+#: inc/mixes-functions.php:312
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: inc/mixes-functions.php:313
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: inc/mixes-functions.php:314
+msgid "Tunisian dinar"
+msgstr ""
+
+#: inc/mixes-functions.php:315
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: inc/mixes-functions.php:316
+msgid "Turkish lira"
+msgstr ""
+
+#: inc/mixes-functions.php:317
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:318
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:319
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: inc/mixes-functions.php:320
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: inc/mixes-functions.php:321
+msgid "Ugandan shilling"
+msgstr ""
+
+#: inc/mixes-functions.php:322
+msgid "United States dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:323
+msgid "Uruguayan peso"
+msgstr ""
+
+#: inc/mixes-functions.php:324
+msgid "Uzbekistani som"
+msgstr ""
+
+#: inc/mixes-functions.php:325
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: inc/mixes-functions.php:326
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: inc/mixes-functions.php:327
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: inc/mixes-functions.php:328
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: inc/mixes-functions.php:329
+msgid "Central African CFA franc"
+msgstr ""
+
+#: inc/mixes-functions.php:330
+msgid "East Caribbean dollar"
+msgstr ""
+
+#: inc/mixes-functions.php:331
+msgid "West African CFA franc"
+msgstr ""
+
+#: inc/mixes-functions.php:332
+msgid "CFP franc"
+msgstr ""
+
+#: inc/mixes-functions.php:333
+msgid "Yemeni rial"
+msgstr ""
+
+#: inc/mixes-functions.php:334
+msgid "South African rand"
+msgstr ""
+
+#: inc/mixes-functions.php:335
+msgid "Zambian kwacha"
+msgstr ""
+
+#: inc/mixes-functions.php:690
+msgid "Previous"
+msgstr ""
+
+#: inc/mixes-functions.php:701
+msgid "Next"
+msgstr ""
+
+#: inc/template-functions.php:78
+msgid "Price Ascending"
+msgstr ""
+
+#: inc/template-functions.php:79
+msgid "Price Desending"
+msgstr ""
+
+#: inc/template-functions.php:80
+msgid "Title Ascending"
+msgstr ""
+
+#: inc/template-functions.php:81
+msgid "Title Desending"
+msgstr ""
+
+#: inc/template-functions.php:84
+msgid "Sort By"
+msgstr ""
+
+#: inc/template-functions.php:105 inc/widgets/profile-info.php:76
+msgid "My Profile"
+msgstr ""
+
+#: inc/template-functions.php:112
+msgid "My Favorite"
+msgstr ""
+
+#: inc/template-functions.php:119
+msgid "Submit Property"
+msgstr ""
+
+#: inc/template-functions.php:140
+msgid "Log out"
+msgstr ""
+
+#: inc/template-functions.php:156
+msgid "Grid"
+msgstr ""
+
+#: inc/template-functions.php:157
+msgid "List"
+msgstr ""
+
+#: inc/template-functions.php:178 templates/parts/search-form-h.php:23 
+#: templates/user/my-properties.php:3
+msgid "All"
+msgstr ""
+
+#: inc/template-functions.php:300
+msgid "Vesion 2"
+msgstr ""
+
+#: templates/archive-opalestate_agent.php:23 
+#: templates/archive-opalestate_property.php:61 
+#: templates/single-opalestate_agent.php:23 
+#: templates/single-opalestate_property.php:18
+msgid "Previous page"
+msgstr ""
+
+#: templates/archive-opalestate_agent.php:24 
+#: templates/archive-opalestate_property.php:62 
+#: templates/single-opalestate_agent.php:24 
+#: templates/single-opalestate_property.php:19
+msgid "Next page"
+msgstr ""
+
+#: templates/archive-opalestate_agent.php:25 
+#: templates/archive-opalestate_property.php:63 
+#: templates/single-opalestate_agent.php:25 
+#: templates/single-opalestate_property.php:20
+msgid "Page"
+msgstr ""
+
+#: templates/content-agent-grid.php:12 templates/content-agent-list.php:12 
+#: templates/single-agent/box.php:13
+msgid "Featured Agent"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: templates/content-agent.php:23
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: templates/content-agent.php:28 templates/single-property/content.php:11
+msgid "Pages:"
+msgstr ""
+
+#: templates/content-single-agent.php:47 
+#: templates/content-single-property-v2.php:43 
+#: templates/content-single-property.php:43
+msgid "Address:"
+msgstr ""
+
+#: templates/content-single-agent.php:52 
+#: templates/content-single-property-v2.php:51 
+#: templates/content-single-property.php:51
+msgid "Location:"
+msgstr ""
+
+#: templates/content-single-property-v2.php:97 
+#: templates/content-single-property.php:106
+msgid "Share this property:"
+msgstr ""
+
+#: inc/admin/register-settings.php:69 inc/admin/register-settings.php:69
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:93
+msgid "General"
+msgstr ""
+
+#: inc/admin/register-settings.php:95
+msgid "Search Area"
+msgstr ""
+
+#: inc/admin/register-settings.php:98
+msgid "Add-ons"
+msgstr ""
+
+#: inc/admin/register-settings.php:102
+msgid "Licenses"
+msgstr ""
+
+#: inc/admin/register-settings.php:162 inc/admin/register-settings.php:166
+msgid "General Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:173
+msgid ""
+"This is page to display form for editing user information. The <code>"
+"[opalestate_user_profile]</code> shortcode should be on this page."
+msgstr ""
+
+#: inc/admin/register-settings.php:184
+msgid ""
+"This is page to display list of favorite properties. The <code>"
+"[opalestate_user_favious_properties]</code> shortcode should be on this page."
+msgstr ""
+
+#: inc/admin/register-settings.php:195
+msgid "Search Agents Page"
+msgstr ""
+
+#: inc/admin/register-settings.php:196
+msgid ""
+"This is page to display form for List Of Agents. The <code>"
+"[opalestate_search_agents]</code> shortcode should be on this page."
+msgstr ""
+
+#: inc/admin/register-settings.php:205
+msgid "Minimun of Target Price For Agent"
+msgstr ""
+
+#: inc/admin/register-settings.php:206
+msgid "Enter min  of price for starting search agent by target"
+msgstr ""
+
+#: inc/admin/register-settings.php:213
+msgid "Maximun of Target Price For Agent"
+msgstr ""
+
+#: inc/admin/register-settings.php:214
+msgid "Enter maximun of price for starting search agent by target"
+msgstr ""
+
+#: inc/admin/register-settings.php:222
+msgid "Single Layout Page"
+msgstr ""
+
+#: inc/admin/register-settings.php:223
+msgid "Choose layout for single property."
+msgstr ""
+
+#: inc/admin/register-settings.php:226 
+#: inc/post-types/class-post-type-property.php:448
+msgid "Inherit"
+msgstr ""
+
+#: inc/admin/register-settings.php:231
+msgid "Enable Admin Approve"
+msgstr ""
+
+#: inc/admin/register-settings.php:232
+msgid ""
+"the Property will be auto approve when user submit, if you do not enable it."
+msgstr ""
+
+#: inc/admin/register-settings.php:237
+msgid "Hide admin toolbar."
+msgstr ""
+
+#: inc/admin/register-settings.php:238
+msgid "This option will hide admin toolbar with logged in user, if it checked."
+msgstr ""
+
+#: inc/admin/register-settings.php:244
+msgid "Currency Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:251
+msgid "Currency"
+msgstr ""
+
+#: inc/admin/register-settings.php:259
+msgid "Currency Position"
+msgstr ""
+
+#: inc/admin/register-settings.php:264
+msgid "Before - $10"
+msgstr ""
+
+#: inc/admin/register-settings.php:265
+msgid "After - 10$"
+msgstr ""
+
+#: inc/admin/register-settings.php:270
+msgid "Thousands Separator"
+msgstr ""
+
+#: inc/admin/register-settings.php:271
+msgid "The symbol (typically , or .) to separate thousands"
+msgstr ""
+
+#: inc/admin/register-settings.php:277
+msgid "Decimal Separator"
+msgstr ""
+
+#: inc/admin/register-settings.php:278
+msgid "The symbol (usually , or .) to separate decimal points"
+msgstr ""
+
+#: inc/admin/register-settings.php:285 inc/admin/register-settings.php:286
+msgid "Measurement Unit"
+msgstr ""
+
+#: inc/admin/register-settings.php:290
+msgid "sq ft"
+msgstr ""
+
+#: inc/admin/register-settings.php:291
+msgid "sq m"
+msgstr ""
+
+#: inc/admin/register-settings.php:297
+msgid "Google Map API"
+msgstr ""
+
+#: inc/admin/register-settings.php:298
+msgid "Register a google api key and put here"
+msgstr ""
+
+#: inc/admin/register-settings.php:313 
+#: templates/parts/search-agents-form.php:49 
+#: templates/parts/search-form-v.php:91
+msgid "Search"
+msgstr ""
+
+#: inc/admin/register-settings.php:326
+msgid "Minimun of Search Price"
+msgstr ""
+
+#: inc/admin/register-settings.php:327
+msgid "Enter min of price for starting search"
+msgstr ""
+
+#: inc/admin/register-settings.php:333
+msgid "Maximun of Search Price"
+msgstr ""
+
+#: inc/admin/register-settings.php:334
+msgid "Enter max of price for starting search"
+msgstr ""
+
+#: inc/admin/register-settings.php:342 inc/admin/register-settings.php:349
+msgid "Area of Search Price"
+msgstr ""
+
+#: inc/admin/register-settings.php:343
+msgid "Enter min of area for starting search"
+msgstr ""
+
+#: inc/admin/register-settings.php:350
+msgid "Enter max of area for starting search"
+msgstr ""
+
+#: inc/admin/register-settings.php:357
+msgid "Horizontal Search Fields"
+msgstr ""
+
+#: inc/admin/register-settings.php:375
+msgid "Vertical Search Fields"
+msgstr ""
+
+#: inc/admin/register-settings.php:426
+msgid "Settings updated."
+msgstr ""
+
+#: inc/admin/register-settings.php:639
+msgid "Global Default"
+msgstr ""
+
+#: inc/admin/register-settings.php:729
+msgid "Save Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:767
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/admin/register-settings.php:804
+#, php-format
+msgid ""
+"API keys allow users to use the <a href=\"%s\">Opalestate REST API</a> to "
+"retrieve donation data in JSON or XML for external applications or devices, "
+"such as <a href=\"%s\">Zapier</a>."
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:40 
+#: inc/post-types/class-post-type-agent.php:52
+msgid "Agents"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:41 
+#: inc/post-types/class-post-type-property.php:59
+msgid "Property"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:42 
+#: inc/post-types/class-post-type-agent.php:43
+msgid "Add New Agent"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:44
+msgid "Edit Agent"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:45
+msgid "New Agent"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:46
+msgid "All Agents"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:47
+msgid "View Agent"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:48
+msgid "Search Agent"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:49
+msgid "No Agents found"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:50
+msgid "No Agents found in Trash"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:63
+msgctxt "URL Slug"
+msgid "property-agent"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:74 
+#: inc/post-types/class-post-type-agent.php:84
+msgid "Agent Levels"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:75
+msgid "Level"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:76
+msgid "Search Level"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:77
+msgid "All Levels"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:78
+msgid "Parent Level"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:79
+msgid "Parent Level:"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:80
+msgid "Edit Level"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:81
+msgid "Update Level"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:82
+msgid "Add New Level"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:83
+msgid "New Level Name"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:105
+msgid "Target Min Price"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:107
+msgid "Enter min price of property which is for sale/rent..."
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:112
+msgid "Target Max Price"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:114
+msgid "Enter max price of property which is for sale/rent..."
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:118 
+#: inc/post-types/class-post-type-property.php:199 
+#: inc/post-types/class-post-type-property.php:485 
+#: templates/parts/search-form-h.php:45 templates/parts/search-form-v.php:47
+msgid "Location"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:119 
+#: inc/post-types/class-post-type-agent.php:127
+msgid "Select one, to add new you create in location of estate panel"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:136
+msgid "Agent For Seachable"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:157
+msgid "Is Featured"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:159
+msgid "Set this agent as featured"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:161 
+#: inc/post-types/class-post-type-property.php:187
+msgid "No"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:162 
+#: inc/post-types/class-post-type-property.php:188
+msgid "Yes"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:169
+msgid "Avatar"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:171 
+#: inc/post-types/class-post-type-property.php:234 
+#: inc/post-types/class-post-type-property.php:610
+msgid "Select one or more images to show as gallery"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:175
+msgid "job"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:181
+msgid "email"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:193
+msgid "Mobile"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:199
+msgid "Fax"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:204
+msgid "Website"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:212
+msgid "Twitter"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:224
+msgid "Google"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:230
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:236
+msgid "Pinterest"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:241
+msgid "Instagram"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:248 
+#: inc/post-types/class-post-type-property.php:222 
+#: inc/post-types/class-post-type-property.php:473 
+#: inc/post-types/class-post-type-property.php:688
+msgid "Address"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:255
+msgid "Map Location"
+msgstr ""
+
+#: inc/post-types/class-post-type-agent.php:273
+msgid "Agent Information"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:60 
+#: inc/post-types/class-post-type-property.php:61 
+#: templates/shortcodes/submission-form.php:22
+msgid "Add New Property"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:62 
+#: templates/shortcodes/submission-form.php:25
+msgid "Edit Property"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:63
+msgid "New Property"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:64
+msgid "All Properties"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:65
+msgid "View Property"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:66
+msgid "Search Property"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:67
+msgid "No Properties found"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:68
+msgid "No Properties found in Trash"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:81
+msgid "property"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:103
+msgctxt "slug"
+msgid "property-category"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:116
+msgid "Property Management"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:125
+msgid "Property Prices"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:135 
+#: inc/post-types/class-post-type-property.php:306 
+#: templates/single-property/features.php:10 
+#: templates/single-property/information.php:9
+msgid "Property Information"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:145
+msgid "Public facilities"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:155
+msgid "Agents Information"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:165
+msgid "Layout Template"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:183 
+#: inc/post-types/class-post-type-property.php:686 
+#: templates/parts/featured-label.php:5 templates/user/content-property.php:22
+msgid "Featured"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:192
+msgid "Property SKU"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:195
+msgid "Please Enter Your Property SKU"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:206 
+#: inc/post-types/class-post-type-property.php:496
+msgid "Postal Code / Zip"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:212 
+#: inc/post-types/class-post-type-property.php:502
+msgid "Google Map View"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:232 
+#: inc/post-types/class-post-type-property.php:608
+msgid "Images Gallery"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:239 
+#: inc/post-types/class-post-type-property.php:616
+msgid "Video"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:246 
+#: templates/single-property/attachments.php:7
+msgid "Attachments"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:251
+msgid "Select one or more files to allow download"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:268
+msgid "Price ($)"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:270
+msgid "Enter amount without currency."
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:274
+msgid "Price"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:278
+msgid "Price Label"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:283
+msgid "Price Label (e.g. \"per month\")"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:301
+msgid "Built year"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:304
+msgid "Enter built year"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:315
+msgid "Enter number of Parking"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:319
+msgid "Bedrooms"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:322
+msgid "Enter number of bedrooms"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:325
+msgid "Bathrooms"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:328
+msgid "Enter number of bathrooms"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:331
+msgid "Plot Size"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:334
+msgid "Enter size of Plot as 20x30, 20x30x40, 20x30x40x50"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:337
+msgid "Area Size"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:340
+msgid "Enter size of area in sqft"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:343
+msgid "Orientation"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:346
+msgid "Enter Orientation of property"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:350
+msgid "Living Rooms"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:353
+msgid "Enter Number of Living Rooms"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:357
+msgid "Kitchens"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:360
+msgid "Enter Number of Kitchens"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:364
+msgid "Rooms"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:367
+msgid "Enter Number of Amount Rooms"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:389
+msgid "Label"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:394
+msgid "Content"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:417
+msgid "Use Author Information"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:426
+msgid "Agent"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:445
+msgid "Layout Display"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:479
+msgid "Property Location"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:513
+msgid "Google Map"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:583
+msgid "Statuses"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:611
+msgid "Media"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:625
+msgid "Featured Image"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:641 
+#: inc/taxonomies/class-taxomony-amenities.php:34 
+#: inc/taxonomies/class-taxomony-amenities.php:44 
+#: templates/single-property/amenities.php:12
+msgid "Amenities"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:645
+msgid "Property Amenities"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:687
+msgid "Sku"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:690
+msgid "Author"
+msgstr ""
+
+#: inc/post-types/class-post-type-property.php:691
+msgid "Date"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-amenities.php:35
+msgid "Properties By Amenity"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-amenities.php:36
+msgid "Search Amenities"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-amenities.php:37
+msgid "All Amenities"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-amenities.php:38
+msgid "Parent Amenity"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-amenities.php:39
+msgid "Parent Amenity:"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-amenities.php:40
+msgid "Edit Amenity"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-amenities.php:41
+msgid "Update Amenity"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-amenities.php:42
+msgid "Add New Amenity"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-amenities.php:43
+msgid "New Amenity"
+msgstr ""
+
+#: inc/taxonomies/class-taxomony-amenities.php:51
+msgctxt "slug"
+msgid "opal-property-amenity"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-locations.php:35
+msgid "Properties By Location"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-locations.php:36
+msgid "Search Locations"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-locations.php:37
+msgid "All Locations"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-locations.php:38
+msgid "Parent Location"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-locations.php:39
+msgid "Parent Location:"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-locations.php:40
+msgid "Edit Location"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-locations.php:41
+msgid "Update Location"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-locations.php:42
+msgid "Add New Location"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-locations.php:43
+msgid "New Location"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-locations.php:51
+msgid "property-location"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-locations.php:70 
+#: inc/taxonomies/class-taxonomy-locations.php:87
+msgid "Select Location"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-status.php:34 
+#: inc/taxonomies/class-taxonomy-status.php:44 
+#: templates/parts/search-form-v.php:41 
+#: templates/single-property/features.php:37
+msgid "Status"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-status.php:35
+msgid "Properties By Status"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-status.php:36
+msgid "Search Status"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-status.php:37
+msgid "All Status"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-status.php:38
+msgid "Parent Status"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-status.php:39
+msgid "Parent Status:"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-status.php:40
+msgid "Edit Status"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-status.php:41
+msgid "Update Status"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-status.php:42
+msgid "Add New Status"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-status.php:43
+msgid "New Status"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-status.php:51
+msgid "property-status"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-status.php:70
+msgid "Select Status"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-types.php:35
+msgid "Properties By Type"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-types.php:36
+msgid "Search Types"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-types.php:37
+msgid "All Types"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-types.php:38
+msgid "Parent Type"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-types.php:39
+msgid "Parent Type:"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-types.php:40
+msgid "Edit Type"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-types.php:41
+msgid "Update Type"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-types.php:42
+msgid "Add New Type"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-types.php:43
+msgid "New Type"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-types.php:51
+msgid "property-type"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/featured-properties.php:22
+msgid "OpalEstate:Featured Properties"
+msgstr ""
+
+#: inc/widgets/featured-properties.php:24
+msgid "Featured Properties widget."
+msgstr ""
+
+#: inc/widgets/featured-properties.php:52
+msgid "Featured Properties"
+msgstr ""
+
+#: inc/widgets/featured-properties.php:57 inc/widgets/profile-info.php:80 
+#: inc/widgets/sameprice-properties.php:61 
+#: inc/widgets/search-properties.php:60 inc/widgets/similar-properties.php:56
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/featured-properties.php:62 
+#: inc/widgets/sameprice-properties.php:66 
+#: inc/widgets/similar-properties.php:61
+msgid "Limit:"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/profile-info.php:22
+msgid "OpalEstate:User Profile"
+msgstr ""
+
+#: inc/widgets/profile-info.php:24
+msgid "Display Profile information in box."
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/sameprice-properties.php:22
+msgid "OpalEstate:Same Price"
+msgstr ""
+
+#: inc/widgets/sameprice-properties.php:24
+msgid "Similar Properties By Same Price with configured range and Status"
+msgstr ""
+
+#: inc/widgets/sameprice-properties.php:55
+msgid "Same Price"
+msgstr ""
+
+#: inc/widgets/sameprice-properties.php:72
+msgid "Range Price:"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/search-properties.php:22
+msgid "OpalEstate:Search Properties"
+msgstr ""
+
+#: inc/widgets/search-properties.php:24
+msgid "Search Properties widget."
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/similar-properties.php:22
+msgid "OpalEstate:Similar Properties"
+msgstr ""
+
+#: inc/widgets/similar-properties.php:24
+msgid "Similar Properties By Same Types and Status Of the post"
+msgstr ""
+
+#: inc/widgets/similar-properties.php:51
+msgid "Similar Properties"
+msgstr ""
+
+#: templates/emails/enquire.php:8 templates/single-agent/form.php:24
+msgid "Name"
+msgstr ""
+
+#: templates/emails/enquire.php:14 templates/single-agent/form.php:28
+msgid "E-mail"
+msgstr ""
+
+#: templates/emails/enquire.php:21 templates/emails/publish_property.php:14
+msgid "URL"
+msgstr ""
+
+#: templates/parts/membership-pricing-info.php:12 
+#: templates/parts/membership-pricing-info.php:14
+msgid " Listings"
+msgstr ""
+
+#: templates/parts/membership-pricing-info.php:14 
+#: templates/parts/membership-pricing-info.php:23
+msgid "Unlimited"
+msgstr ""
+
+#: templates/parts/membership-pricing-info.php:21 
+#: templates/parts/membership-pricing-info.php:23
+msgid " Featured"
+msgstr ""
+
+#: templates/parts/membership-warning.php:3
+msgid ""
+"Your package has 0 left listing, you could not add any more. Please upgrade "
+"now"
+msgstr ""
+
+#: templates/parts/membership-warning.php:4
+msgid "Click to this link to see plans"
+msgstr ""
+
+#: templates/parts/not-allowed.php:8 templates/parts/submission-warning.php:16
+msgid "You are not allowed to access this page."
+msgstr ""
+
+#: templates/parts/search-agents-form.php:15
+msgid "Find an experienced agent with:"
+msgstr ""
+
+#: templates/parts/search-agents-form.php:18
+msgid "Who sale between:"
+msgstr ""
+
+#: templates/parts/search-agents-form.php:41 
+#: templates/parts/search-form-h.php:78 templates/parts/search-form-v.php:77 
+#: templates/single-property/meta.php:13 templates/single-property/price.php:9
+msgid "Price:"
+msgstr ""
+
+#: templates/parts/search-form-h.php:14
+msgid "Quick Search"
+msgstr ""
+
+#: templates/parts/search-form-h.php:55 templates/parts/search-form-v.php:60
+msgid "No . "
+msgstr ""
+
+#: templates/parts/search-form-h.php:63 templates/parts/search-form-v.php:52 
+#: templates/single-property/features.php:25
+msgid "Type"
+msgstr ""
+
+#: templates/parts/search-form-v.php:36
+msgid "Keyword"
+msgstr ""
+
+#: templates/shortcodes/search-agents.php:11
+#, php-format
+msgid "Found %s Agents"
+msgstr ""
+
+#: templates/shortcodes/submission-form.php:35
+msgid "Save property"
+msgstr ""
+
+#: templates/single-agent/box.php:112
+msgid "View Profile"
+msgstr ""
+
+#: templates/single-agent/form.php:14
+msgid "Contact Form"
+msgstr ""
+
+#: templates/single-agent/form.php:32
+msgid "Message"
+msgstr ""
+
+#: templates/single-agent/form.php:36
+msgid "Send message"
+msgstr ""
+
+#: templates/single-property/amenities.php:28
+msgid "Facilities"
+msgstr ""
+
+#: templates/single-property/author.php:16 
+#: templates/single-property/author.php:35
+msgid "Contact Agent"
+msgstr ""
+
+#: templates/single-property/content.php:2
+msgid "Property Description"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: templates/single-property/content.php:6
+#, php-format
+msgid "Continue reading %s "
+msgstr ""
+
+#: templates/single-property/information.php:14
+msgid "Type:"
+msgstr ""
+
+#: templates/single-property/map-v2.php:48 templates/single-property/map.php:36
+msgid "Hospital"
+msgstr ""
+
+#: templates/single-property/map-v2.php:54 templates/single-property/map.php:42
+msgid "Library"
+msgstr ""
+
+#: templates/single-property/map-v2.php:60 templates/single-property/map.php:48
+msgid "Pharmacy"
+msgstr ""
+
+#: templates/single-property/map-v2.php:67 templates/single-property/map.php:55
+msgid "School"
+msgstr ""
+
+#: templates/single-property/map-v2.php:74 templates/single-property/map.php:62
+msgid "Shopping"
+msgstr ""
+
+#: templates/single-property/map-v2.php:80 templates/single-property/map.php:68
+msgid "Trainstation"
+msgstr ""
+
+#: templates/single-property/price.php:12
+msgid "Sale Price:"
+msgstr ""
+
+#: templates/user/content-property.php:87
+msgid "Set Featured"
+msgstr ""
+
+#: templates/user/content-property.php:90
+msgid "Edit"
+msgstr ""
+
+#: templates/user/content-property.php:99
+msgid "Are you sure you wish to delete?"
+msgstr ""
+
+#: templates/user/content-property.php:99
+msgid "Delete Property"
+msgstr ""
+
+#: templates/user/favorite-button.php:11
+msgid "Favorite"
+msgstr ""
+
+#: templates/user/favorite-button.php:11
+msgid "Add Favorite"
+msgstr ""
+
+#: templates/user/my-properties.php:4
+msgid "Published"
+msgstr ""
+
+#: templates/user/my-properties.php:5
+msgid "Pending"
+msgstr ""
+
+#: templates/user/my-properties.php:6
+msgid "Expired"
+msgstr ""
+
+#: templates/user/profile.php:22
+msgid "Edit User Profile"
+msgstr ""
+
+#: templates/user/profile.php:29 templates/user/profile.php:47
+msgid "Save Change"
+msgstr ""
+
+#: templates/user/profile.php:39
+msgid "Change Password"
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:143
+msgid "Could not allow uploading image"
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:171 
+#: inc/vendors/opalmembership/membership.php:482
+msgid "Number Of Properties"
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:180 
+#: inc/vendors/opalmembership/membership.php:476 
+#: inc/vendors/opalmembership/membership.php:491
+msgid ""
+"Number of properties with this package. If not set it will be unlimited."
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:184 
+#: inc/vendors/opalmembership/membership.php:495 
+#: inc/vendors/opalmembership/membership.php:508
+msgid "Number Of Featured Properties"
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:193 
+#: inc/vendors/opalmembership/membership.php:504 
+#: inc/vendors/opalmembership/membership.php:513
+msgid "Number of properties can make featured with this package."
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:197
+msgid " Unlimited listings ?"
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:201
+msgid ""
+"Number of properties can make featured with this package. If not set it will "
+"be unlimited."
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:215
+msgid "My Membership"
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:222
+msgid "Review membership"
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:433
+msgid "(Package) Listings Included:"
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:434
+msgid "(Package) Featured Included:"
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:436
+msgid "Listings Remaining:"
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:437
+msgid "Featured Remaining:"
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:467
+msgid "Package"
+msgstr ""
+
+#: inc/vendors/opalmembership/membership.php:477
+msgid "Membership Information"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/map/map.php:44
+msgid "Map Address"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/map/map.php:52
+msgid "Latitude"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/map/map.php:62
+msgid "Longitude"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/media-avatar-tpl.php:21
+msgid "Update Profile Picture"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/media-avatar-tpl.php:23
+msgid "*minimum 270px x 270px"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/media-tpl.php:38
+msgid "Set featured image"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/media-tpl.php:56
+msgid "Drag and drop images here"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/media-tpl.php:57
+msgid "or"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/media-tpl.php:58
+msgid "Select Images"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:52 
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:111
+msgid "Security check failed!"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:195
+msgid "Valid file formats"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:196
+msgid "Please enter only digits"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:216
+msgid "Could not delete this?"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:226
+msgid "Could not found this in the collection?"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:230
+msgid "The post is not owned by this user?"
+msgstr ""
+
+#: inc/vendors/cmb2/custom-fields/upload/upload.php:239
+msgid "Deleted this done"
+msgstr ""
+
+#. Name of the plugin
+msgid "Opal Estate"
+msgstr ""
+
+#. Description of the plugin
+msgid "An e-commerce toolkit that helps you sell anything. Beautifully."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.wpopal.com/estate/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPOPAL"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.wpopal.com"
+msgstr ""
